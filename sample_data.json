@@ -1373,5 +1373,8 @@
 		"reqsPerPage": "36",
 		"searchTerm": "soap"
 	},
+	"sorts": [
+		"Most relevant", "Newest", "Price low to high", "Price high to low", "Best seller", "Top rated", "Brand A-Z", "Brand Z-A"
+	],
 	"stores": {}
 }
