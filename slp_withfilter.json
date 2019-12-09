@@ -1,0 +1,5880 @@
+{
+  "products": {
+    "urls": {
+      "redirect": "https://www.boots.com/dior"
+    },
+    "query": "dior",
+    "paging": {
+      "total": 301,
+      "index": 0,
+      "size": 96
+    },
+    "hits": [
+      {
+        "referenceUri": "/dior-forever-foundation-24h-wear-high-perfection-skin-caring-foundation-10261296",
+        "title": "DIOR Forever Matte Foundation ",
+        "pricing": {
+          "regular": {
+            "text": "£37.00"
+          }
+        },
+        "reviews": {
+          "average": 4.36
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-90ml-10254747",
+        "title": "JOY by Dior Eau de Parfum 90ml",
+        "pricing": {
+          "perUnit": "£124.44 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-50ml-10254746",
+        "title": "JOY by Dior Eau de Parfum 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-30ml-10254745",
+        "title": "JOY by Dior Eau de Parfum 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-lip-maximizer-10243020",
+        "title": "DIOR Addict Lip Maximizer",
+        "pricing": {
+          "perUnit": "£46.67 per 10ML"
+        },
+        "reviews": {
+          "average": 3.8
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-toilette-60ml-10199150",
+        "title": "Dior Sauvage Eau de Toilette 60ml",
+        "pricing": {
+          "perUnit": "£75.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.8
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-toilette-100ml-10199144",
+        "title": "Dior Sauvage Eau de Toilette 100ml",
+        "pricing": {
+          "perUnit": "£66.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.8
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-star-studio-makeup-spectacular-brightening-weightless-perfection-foundation-spf-30-30ml-10181574",
+        "title": "DIOR Diorskin Star Studio Makeup Spectacular Brightening Weightless Perfection Foundation SPF 30 30ml",
+        "pricing": {
+          "perUnit": "£116.67 per 100ML"
+        },
+        "reviews": {
+          "average": 3.32
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-lacquer-plump-10246065",
+        "title": "DIOR Addict Lacquer Plump",
+        "pricing": {
+          "regular": {
+            "text": "£30.00"
+          }
+        },
+        "reviews": {
+          "average": 4.42
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-forever-fluid-foundation-spf35-30ml",
+        "title": "DIOR Diorskin Forever Fluid Foundation SPF35 Perfect Makeup Everlasting Wear Pore Refining Effect 30ml",
+        "pricing": {
+          "regular": {
+            "text": "£37.00"
+          }
+        },
+        "reviews": {
+          "average": 3.38
+        }
+      },
+      {
+        "referenceUri": "/dior-poison-girl-eau-de-parfum-spray-100ml-10213183",
+        "title": "Dior Poison Girl Eau de Parfum Spray 100ml",
+        "pricing": {
+          "perUnit": "£112.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.95
+        }
+      },
+      {
+        "referenceUri": "/dior-poison-girl-eau-de-parfum-spray-50ml-10213181",
+        "title": "Dior Poison Girl Eau de Parfum Spray 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.95
+        }
+      },
+      {
+        "referenceUri": "/dior-poison-girl-eau-de-parfum-spray-30ml-10213180",
+        "title": "Dior Poison Girl Eau de Parfum Spray 30ml",
+        "pricing": {
+          "perUnit": "£173.33 per 100ML"
+        },
+        "reviews": {
+          "average": 4.95
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-lip-glow-colour-reviver-lip-balm-matte-10243008",
+        "title": "DIOR Addict Lip Glow Colour Reviver Lip Balm-Matte",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 4.94
+        }
+      },
+      {
+        "referenceUri": "/dior-backstage-face-and-body-foundation-10252825",
+        "title": "DIOR BACKSTAGE FACE & BODY FOUNDATION. 40 shades with a natural finish custom build foundation. Waterproof and sweat-resistant.",
+        "pricing": {
+          "regular": {
+            "text": "£30.00"
+          }
+        },
+        "reviews": {
+          "average": 4.38
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-pump-n-volume-mascara-10231132",
+        "title": "DIOR Diorshow Pump ‘N’ Volume Mascara",
+        "pricing": {
+          "perUnit": "£46.67 per 10G"
+        },
+        "reviews": {
+          "average": 3.63
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-mascara-10197940",
+        "title": "DIOR Diorshow Mascara",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 4.2
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-lip-tattoo-10231199",
+        "title": "DIOR Addict Lip Tattoo No transfer natural Lip Stain",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 3.15
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-eau-de-parfum-spray-30ml-10173257",
+        "title": "DIOR ADDICT Eau de Parfum Spray 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 4.58
+        }
+      },
+      {
+        "referenceUri": "/dior-homme-eau-for-men-eau-de-toilette-spray-100ml-10169222",
+        "title": "DIOR HOMME EAU for Men Eau de Toilette Spray 100ml",
+        "pricing": {
+          "perUnit": "£76.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.58
+        }
+      },
+      {
+        "referenceUri": "/dior-homme-eau-for-men-eau-de-toilette-spray-50ml-10169221",
+        "title": "DIOR HOMME EAU for Men Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£110.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.58
+        }
+      },
+      {
+        "referenceUri": "/dior-forever-skin-glow-24h-wear-radiant-perfection-skin-caring-foundation-10261297",
+        "title": "DIOR Forever Skin Glow Foundation",
+        "pricing": {
+          "regular": {
+            "text": "£37.00"
+          }
+        },
+        "reviews": {
+          "average": 3.17
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-eau-fraiche-eau-de-toilette-spray-50ml-10044813",
+        "title": "DIOR ADDICT EAU FRAICHE Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-capture-totale-triple-correcting-serum-foundation-spf-25-30ml-10169155",
+        "title": "DIOR Capture Totale Triple Correcting Serum Foundation SPF 25 30ml",
+        "pricing": {
+          "perUnit": "£216.67 per 100ML"
+        },
+        "reviews": {
+          "average": 4.36
+        }
+      },
+      {
+        "referenceUri": "/diorshow-iconic-overcurl-mascara-10152463",
+        "title": "DIORSHOW Iconic Overcurl Mascara",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 4.7
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-eau-de-parfum-spray-100ml-10230916",
+        "title": "Miss Dior Eau de Parfum Spray 100ml",
+        "pricing": {
+          "perUnit": "£112.00 per 100ML"
+        },
+        "reviews": {
+          "average": 3.4
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-eau-de-parfum-spray-30ml-10230914",
+        "title": "Miss Dior Eau de Parfum Spray 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 3.4
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-eau-de-parfum-spray-50ml-10011444",
+        "title": "DIOR J'adore Eau de Parfum Spray 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.38
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-eau-de-parfum-spray-30ml-10011442",
+        "title": "Dior J'adore Eau de Parfum Spray 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 4.38
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-eau-de-parfum-spray-150ml-10192292",
+        "title": "Dior J'adore Eau de Parfum Spray 150ml",
+        "pricing": {
+          "perUnit": "£94.67 per 100ML"
+        },
+        "reviews": {
+          "average": 4.38
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-nude-air-serum-10191138",
+        "title": "DIOR Diorskin Nude Air Serum 30ml",
+        "pricing": {
+          "regular": {
+            "text": "£38.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-eau-de-toilette-spray-100ml-10150959",
+        "title": "MISS DIOR Eau de Toilette Spray 100ml",
+        "pricing": {
+          "perUnit": "£94.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.86
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-eau-de-toilette-spray-50ml-10150957",
+        "title": "MISS DIOR Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.86
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-iconic-waterproof-overcurl-mascara-10174482",
+        "title": "DIOR Diorshow Iconic Waterproof Overcurl Mascara",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 3.57
+        }
+      },
+      {
+        "referenceUri": "/dior-vernis-nail-polish-10ml-10172927",
+        "title": "DIOR Vernis Couture Colour Gel Shine Long Wear Nail Lacquer 10ml",
+        "pricing": {
+          "perUnit": "£22.00 per 10ML"
+        },
+        "reviews": {
+          "average": 4.83
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-parfum-60ml-10243636",
+        "title": "Dior Sauvage Eau de Parfum 60ml",
+        "pricing": {
+          "perUnit": "£110.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-toilette-spray-200ml-10221506",
+        "title": "Dior Sauvage Eau de Toilette Spray 200ml",
+        "pricing": {
+          "perUnit": "£52.50 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-eau-de-parfum-spray-50ml-10230915",
+        "title": "Miss Dior Eau de Parfum Spray 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 3.2
+        }
+      },
+      {
+        "referenceUri": "/dior-fahrenheit-eau-de-toilette-spray-50ml-10011941",
+        "title": "DIOR FAHRENHEIT Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£90.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-brow-styler-eyebrow-pencil-dark-brown-10197949",
+        "title": "DIOR Diorshow Brow Styler Eyebrow Pencil Dark Brown",
+        "pricing": {
+          "regular": {
+            "text": "£22.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-it-lash-mascara-10174479",
+        "title": "DIOR Addict It-Lash Mascara",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 4.25
+        }
+      },
+      {
+        "referenceUri": "/dior-backstage-long-wear-and-smoothing-eye-primer-10169550",
+        "title": "DIOR Backstage Pros Long-Wear & Smoothing Eye Primer",
+        "pricing": {
+          "perUnit": "£40.00 per 10G"
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-eau-de-parfum-spray-100ml-10011441",
+        "title": "Dior J'adore Eau de Parfum Spray 100ml",
+        "pricing": {
+          "perUnit": "£112.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-aftershave-lotion-100ml-10199142",
+        "title": "Dior Sauvage Aftershave Lotion 100ml",
+        "pricing": {
+          "perUnit": "£52.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-very-cool-spray-edt-100ml-10228509",
+        "title": "Dior Sauvage Very Cool Spray EDT 100ml",
+        "pricing": {
+          "perUnit": "£62.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.33
+        }
+      },
+      {
+        "referenceUri": "/Rouge-Dior-Liquid-10238164",
+        "title": "DIOR Rouge Liquid",
+        "pricing": {
+          "regular": {
+            "text": "£30.50"
+          }
+        },
+        "reviews": {
+          "average": 3.67
+        }
+      },
+      {
+        "referenceUri": "/dior-rouge-satin-lipstick-10221101",
+        "title": "DIOR Rouge Satin Lipstick",
+        "pricing": {
+          "regular": {
+            "text": "£30.50"
+          }
+        },
+        "reviews": {
+          "average": 3.67
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-pro-liner-waterproof-10197941",
+        "title": "DIOR Diorshow Pro Liner Waterproof",
+        "pricing": {
+          "regular": {
+            "text": "£22.50"
+          }
+        },
+        "reviews": {
+          "average": 3.67
+        }
+      },
+      {
+        "referenceUri": "/diorskin-mineral-nude-bronze-healthy-glow-bronzing-powder-10248256",
+        "title": "DIOR Diorskin Mineral Nude Bronze - Healthy Glow Bronzing Powder",
+        "pricing": {
+          "regular": {
+            "text": "£35.00"
+          }
+        },
+        "reviews": {
+          "average": 3.33
+        }
+      },
+      {
+        "referenceUri": "/dior-backstage-pro-fix-it-concealer-10200776",
+        "title": "DIOR Backstage Pros Fix It 2-In-1 Prime & Conceal Face - Eyes - Lips",
+        "pricing": {
+          "regular": {
+            "text": "£27.00"
+          }
+        },
+        "reviews": {
+          "average": 3.33
+        }
+      },
+      {
+        "referenceUri": "/rouge-dior-ultra-rouge-ultra-pigmented-hydra-lipstick-10255720",
+        "title": "DIOR Rouge Ultra Rouge Pigmented Hydra Lipstick",
+        "pricing": {
+          "regular": {
+            "text": "£30.00"
+          }
+        },
+        "reviews": {
+          "average": 2.67
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-forever-and-ever-control-loose-powder-10211319",
+        "title": "DIOR Diorskin Forever & Ever Wear Control Loose Powder",
+        "pricing": {
+          "regular": {
+            "text": "£38.50"
+          }
+        },
+        "reviews": {
+          "average": 2.33
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-forever-perfect-mousse-foundation-10238595",
+        "title": "DIOR Diorskin Forever Perfect Mousse Foundation",
+        "pricing": {
+          "perUnit": "£120.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-injoy-eau-de-toilette-spray-50ml-10228527",
+        "title": "Dior J'adore in joy Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-injoy-eau-de-toilette-spray-100ml-10228517",
+        "title": "Dior J'adore in joy Eau de Toilette Spray 100ml",
+        "pricing": {
+          "perUnit": "£94.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/webapp/wcs/stores/servlet/ProductDisplay?errorViewName=ProductDisplayErrorView&storeId=11352&urlLangId=-1&productId=1946969&catalogId=28501&langId=-1",
+        "title": "DIOR CAPTURE TOTALE Dreamskin - 1 Minute Mask 75ml",
+        "pricing": {
+          "perUnit": "£72.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/webapp/wcs/stores/servlet/ProductDisplay?errorViewName=ProductDisplayErrorView&storeId=11352&urlLangId=-1&productId=1946967&catalogId=28501&langId=-1",
+        "title": "DIOR CAPTURE TOTALE DreamSkin Advanced 50ml",
+        "pricing": {
+          "perUnit": "£219.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-capture-totale-dreamskin-advanced-refill-50ml-10226308",
+        "title": "DIOR CAPTURE TOTALE DreamSkin Advanced Refill 50ml",
+        "pricing": {
+          "perUnit": "£186.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-lip-sugar-scrub-10226592",
+        "title": "DIOR Addict Lip Sugar Scrub",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-absolutely-blooming-eau-de-parfum-50ml-10218314",
+        "title": "Miss Dior Absolutely Blooming Eau de Parfum 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-absolutely-blooming-eau-de-parfum-30ml-10218313",
+        "title": "Miss Dior Absolutely Blooming Eau de Parfum 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-lash-maximizer-primer-10ml-10215946",
+        "title": "DIOR Diorshow Maximizer 3D Triple Volume Plumping Lash Primer 10ml",
+        "pricing": {
+          "perUnit": "£28.00 per 10ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-eau-de-toilette-spray-100ml-10173259",
+        "title": "DIOR ADDICT Eau de Toilette Spray 100ml",
+        "pricing": {
+          "perUnit": "£94.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/diorlisse-abricot-smoothing-perfecting-nail-care-in-snow-pink-10ml-10161715",
+        "title": "DIOR Diorlisse Abricot Smoothing Perfecting Nail Care in Snow Pink 10ml",
+        "pricing": {
+          "perUnit": "£220.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-huile-abricot-daily-nutritive-nail-and-cuticle-serum-7-5ml-10161708",
+        "title": "DIOR Huile Abricot Daily Nutritive Nail & Cuticle Serum 7.5ml",
+        "pricing": {
+          "perUnit": "£314.29 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-rosy-glow-blush-7-5g-10134257",
+        "title": "DIOR Diorskin Rosy Glow Blush 7.5g",
+        "pricing": {
+          "perUnit": "£44.67 per 10G"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-spray-deodorant-150ml-10199143",
+        "title": "Dior Sauvage Spray Deodorant 150ml",
+        "pricing": {
+          "perUnit": "£19.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-pump-n-volume-waterproof-instant-volumizing-mascara-10249084",
+        "title": "DIOR Diorshow Pump 'n' Volume Waterproof - Instant volumizing mascara",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 3.5
+        }
+      },
+      {
+        "referenceUri": "/dior-miss-dior-eau-de-toilette-50ml-10259484",
+        "title": "Miss Dior Eau de Toilette 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-lor-essence-de-parfum-spray-40ml-10239082",
+        "title": "Dior J'adore L'Or Essence de Parfum spray 40ml",
+        "pricing": {
+          "perUnit": "£280.00 per 100ML"
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-blooming-bouquet-eau-de-toilette-spray-30ml-10188650",
+        "title": "MISS DIOR Blooming Bouquet Eau de Toilette Spray 30ml",
+        "pricing": {
+          "perUnit": "£158.33 per 100ML"
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/diorlisse-abricot-smoothing-perfecting-nail-care-in-pink-petal-10ml-10161716",
+        "title": "DIOR Diorlisse Abricot Smoothing Perfecting Nail Care in Pink Petal 10ml",
+        "pricing": {
+          "perUnit": "£220.00 per 100ML"
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/diorshow-black-out-waterproof-spectacular-volume-intense-black-khol-mascara-10076411",
+        "title": "DIOR Diorshow Black Out Waterproof Spectacular Volume Intense Black Khol Mascara",
+        "pricing": {
+          "regular": {
+            "text": "£27.00"
+          }
+        },
+        "reviews": {
+          "average": 3
+        }
+      },
+      {
+        "referenceUri": "/dior-poison-girl-unexpected-eau-de-toilette-50ml-10246189",
+        "title": "Dior Poison Girl Unexpected Eau de Toilette 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 2
+        }
+      },
+      {
+        "referenceUri": "/dior-poison-eau-de-toilette-spray-30ml-10011450",
+        "title": "DIOR POISON Eau de Toilette Spray 30ml",
+        "pricing": {
+          "perUnit": "£165.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-five-couleurs-rouge-en-diable-ltd-edition-10255724",
+        "title": "DIOR 5 COULEURS LIMITED EDITION Eyeshadow Palette",
+        "pricing": {
+          "regular": {
+            "text": "£48.50"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-parfum-200ml-10259487",
+        "title": "Dior Sauvage Eau de Parfum 200ml",
+        "pricing": {
+          "perUnit": "£61.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/jadore-absolu-eau-de-parfum-50ml-10255566",
+        "title": "J’adore Absolu Eau de Parfum 50ml",
+        "pricing": {
+          "perUnit": "£170.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-backstage-contour-palette-and-highlight-10252966",
+        "title": "DIOR BACKSTAGE CONTOUR PALETTE AND HIGHLIGHT",
+        "pricing": {
+          "regular": {
+            "text": "£34.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-backstage-glow-face-palette-10252965",
+        "title": "DIOR BACKSTAGE GLOW FACE PALETTE Pure shimmer, blendable highlight & blush",
+        "pricing": {
+          "regular": {
+            "text": "£34.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-vernis-couture-colour-high-shine-ultra-longwear-10248251",
+        "title": "DIOR Vernis - Couture Colour High Shine Ultra Longwear",
+        "pricing": {
+          "perUnit": "£22.00 per 10ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-colour-reviver-lip-balm-holographic-10243006",
+        "title": "DIOR Addict Colour Reviver Lip Balm-Holographic",
+        "pricing": {
+          "regular": {
+            "text": "£28.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-eau-de-parfum-100ml-10243637",
+        "title": "Dior Sauvage Eau de Parfum 100ml",
+        "pricing": {
+          "perUnit": "£82.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-capture-youthage-delay-advanced-creme-10242479",
+        "title": "Dior Capture Youth Age-Delay Advanced Creme",
+        "pricing": {
+          "perUnit": "£150.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-jadore-body-cream-150ml-10239133",
+        "title": "Dior J'adore Body Cream 150ml",
+        "pricing": {
+          "perUnit": "£41.33 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-rouge-matte-lipstick-10221604",
+        "title": "DIOR Rouge Matte Lipstick",
+        "pricing": {
+          "regular": {
+            "text": "£30.50"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/miss-dior-absolutely-blooming-eau-de-parfum-100ml-10218315",
+        "title": "Miss Dior Absolutely Blooming Eau de Parfum 100ml",
+        "pricing": {
+          "perUnit": "£112.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-shower-gel-200ml-10213553",
+        "title": "Dior Sauvage Shower Gel 200ml",
+        "pricing": {
+          "perUnit": "£15.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-sauvage-aftershave-balm-10213550",
+        "title": "Dior Sauvage Aftershave Balm",
+        "pricing": {
+          "perUnit": "£44.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorskin-forever-and-ever-wear-primer-base-30ml-10211320",
+        "title": "DIOR Diorskin Forever & Ever Wear Primer Base 30ml",
+        "pricing": {
+          "regular": {
+            "text": "£31.50"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-miss-dior-blooming-bouquet-150ml-edt-10211276",
+        "title": "DIOR MISS DIOR Blooming Bouquet 150ML EDT",
+        "pricing": {
+          "perUnit": "£74.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-5-couleurs-designer-all-in-one-artistry-palette-eyeshadow-10088313",
+        "title": "DIOR 5 Couleurs Designer All In One Artistry Palette Eyeshadow",
+        "pricing": {
+          "regular": {
+            "text": "£48.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-miss-dior-hair-mist-spray-30ml-10191173",
+        "title": "DIOR MISS DIOR Hair Mist Spray 30ml",
+        "pricing": {
+          "perUnit": "£113.33 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-diorshow-brow-styler-eyebrow-pencil-brown-10193166",
+        "title": "DIOR Diorshow Brow Styler Eyebrow Pencil Brown",
+        "pricing": {
+          "regular": {
+            "text": "£22.00"
+          }
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-addict-eau-de-toilette-spray-50ml-10173260",
+        "title": "DIOR ADDICT Eau de Toilette Spray 50ml",
+        "pricing": {
+          "perUnit": "£130.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      },
+      {
+        "referenceUri": "/dior-pure-poison-eau-de-parfum-50ml-10040345",
+        "title": "DIOR PURE POISON Eau de Parfum 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 5
+        }
+      }
+    ],
+    "facets": [
+      {
+        "key": "brand",
+        "text": "brand",
+        "elements": [
+          {
+            "key": "Lego",
+            "text": "Lego",
+            "count": 100
+          },
+          {
+            "key": "Vtech",
+            "text": "Vtech",
+            "count": 65
+          },
+          {
+            "key": "Early Learning Centre",
+            "text": "Early Learning Centre",
+            "count": 52
+          },
+          {
+            "key": "Yankee Candles",
+            "text": "Yankee Candles",
+            "count": 50
+          },
+          {
+            "key": "Leapfrog",
+            "text": "Leapfrog",
+            "count": 38
+          },
+          {
+            "key": "Fisher Price",
+            "text": "Fisher Price",
+            "count": 36
+          },
+          {
+            "key": "Mini Club",
+            "text": "Mini Club",
+            "count": 35
+          },
+          {
+            "key": "Activity Superstore",
+            "text": "Activity Superstore",
+            "count": 30
+          },
+          {
+            "key": "NYX Professional Makeup",
+            "text": "NYX Professional Makeup",
+            "count": 29
+          },
+          {
+            "key": "Bright Starts",
+            "text": "Bright Starts",
+            "count": 22
+          },
+          {
+            "key": "Paw Patrol",
+            "text": "Paw Patrol",
+            "count": 21
+          },
+          {
+            "key": "Skip Hop",
+            "text": "Skip Hop",
+            "count": 21
+          },
+          {
+            "key": "Casdon",
+            "text": "Casdon",
+            "count": 16
+          },
+          {
+            "key": "Woodwick",
+            "text": "Woodwick",
+            "count": 16
+          },
+          {
+            "key": "Lamaze",
+            "text": "Lamaze",
+            "count": 15
+          },
+          {
+            "key": "Munchkin",
+            "text": "Munchkin",
+            "count": 15
+          },
+          {
+            "key": "Peppa Pig",
+            "text": "Peppa Pig",
+            "count": 15
+          },
+          {
+            "key": "Character",
+            "text": "Character",
+            "count": 14
+          },
+          {
+            "key": "Little Tikes",
+            "text": "Little Tikes",
+            "count": 13
+          },
+          {
+            "key": "Orchard Toys",
+            "text": "Orchard Toys",
+            "count": 12
+          },
+          {
+            "key": "PJ MASKS",
+            "text": "PJ MASKS",
+            "count": 11
+          },
+          {
+            "key": "SensatioNail",
+            "text": "SensatioNail",
+            "count": 11
+          },
+          {
+            "key": "Sylvanian Families",
+            "text": "Sylvanian Families",
+            "count": 10
+          },
+          {
+            "key": "Disney Princess",
+            "text": "Disney Princess",
+            "count": 9
+          },
+          {
+            "key": "Hasbro",
+            "text": "Hasbro",
+            "count": 9
+          },
+          {
+            "key": "Melissa & Doug",
+            "text": "Melissa & Doug",
+            "count": 9
+          },
+          {
+            "key": "Barry M",
+            "text": "Barry M",
+            "count": 8
+          },
+          {
+            "key": "Playmobil",
+            "text": "Playmobil",
+            "count": 8
+          },
+          {
+            "key": "Thomas & Friends",
+            "text": "Thomas & Friends",
+            "count": 8
+          },
+          {
+            "key": "Wax Lyrical",
+            "text": "Wax Lyrical",
+            "count": 8
+          },
+          {
+            "key": "CRAFTS",
+            "text": "CRAFTS",
+            "count": 7
+          },
+          {
+            "key": "FITBIT",
+            "text": "FITBIT",
+            "count": 7
+          },
+          {
+            "key": "Jack & Lily",
+            "text": "Jack & Lily",
+            "count": 7
+          },
+          {
+            "key": "L'Oreal",
+            "text": "L'Oreal",
+            "count": 7
+          },
+          {
+            "key": "Mattel",
+            "text": "Mattel",
+            "count": 7
+          },
+          {
+            "key": "Teletubbies",
+            "text": "Teletubbies",
+            "count": 7
+          },
+          {
+            "key": "Baby Einstein",
+            "text": "Baby Einstein",
+            "count": 6
+          },
+          {
+            "key": "HATCHIMALS",
+            "text": "HATCHIMALS",
+            "count": 6
+          },
+          {
+            "key": "Maybelline",
+            "text": "Maybelline",
+            "count": 6
+          },
+          {
+            "key": "NPW",
+            "text": "NPW",
+            "count": 6
+          },
+          {
+            "key": "Nuby",
+            "text": "Nuby",
+            "count": 6
+          },
+          {
+            "key": "Baby Annabell",
+            "text": "Baby Annabell",
+            "count": 5
+          },
+          {
+            "key": "Disney",
+            "text": "Disney",
+            "count": 5
+          },
+          {
+            "key": "East coast",
+            "text": "East coast",
+            "count": 5
+          },
+          {
+            "key": "Gillette",
+            "text": "Gillette",
+            "count": 5
+          },
+          {
+            "key": "Halilit",
+            "text": "Halilit",
+            "count": 5
+          },
+          {
+            "key": "Little Live Pets",
+            "text": "Little Live Pets",
+            "count": 5
+          },
+          {
+            "key": "My Little Pony",
+            "text": "My Little Pony",
+            "count": 5
+          },
+          {
+            "key": "Taf Toys",
+            "text": "Taf Toys",
+            "count": 5
+          },
+          {
+            "key": "Ted Baker",
+            "text": "Ted Baker",
+            "count": 5
+          },
+          {
+            "key": "Tomy",
+            "text": "Tomy",
+            "count": 5
+          },
+          {
+            "key": "Ty",
+            "text": "Ty",
+            "count": 5
+          },
+          {
+            "key": "Barbie",
+            "text": "Barbie",
+            "count": 4
+          },
+          {
+            "key": "Jakks",
+            "text": "Jakks",
+            "count": 4
+          },
+          {
+            "key": "L'Oreal Men",
+            "text": "L'Oreal Men",
+            "count": 4
+          },
+          {
+            "key": "Little Helper",
+            "text": "Little Helper",
+            "count": 4
+          },
+          {
+            "key": "ManCave",
+            "text": "ManCave",
+            "count": 4
+          },
+          {
+            "key": "Percy Nobleman",
+            "text": "Percy Nobleman",
+            "count": 4
+          },
+          {
+            "key": "Shopkins",
+            "text": "Shopkins",
+            "count": 4
+          },
+          {
+            "key": "Slim.Fast",
+            "text": "Slim.Fast",
+            "count": 4
+          },
+          {
+            "key": "Tutti Bambini",
+            "text": "Tutti Bambini",
+            "count": 4
+          },
+          {
+            "key": "Wish Upon A Star",
+            "text": "Wish Upon A Star",
+            "count": 4
+          },
+          {
+            "key": "Accessory Crossing",
+            "text": "Accessory Crossing",
+            "count": 3
+          },
+          {
+            "key": "Bareminerals",
+            "text": "Bareminerals",
+            "count": 3
+          },
+          {
+            "key": "Barley lane",
+            "text": "Barley lane",
+            "count": 3
+          },
+          {
+            "key": "Below the Belt",
+            "text": "Below the Belt",
+            "count": 3
+          },
+          {
+            "key": "Ben and Holly",
+            "text": "Ben and Holly",
+            "count": 3
+          },
+          {
+            "key": "Crayola",
+            "text": "Crayola",
+            "count": 3
+          },
+          {
+            "key": "Golden Bear",
+            "text": "Golden Bear",
+            "count": 3
+          },
+          {
+            "key": "Joie",
+            "text": "Joie",
+            "count": 3
+          },
+          {
+            "key": "Mega Bloks",
+            "text": "Mega Bloks",
+            "count": 3
+          },
+          {
+            "key": "Play Doh",
+            "text": "Play Doh",
+            "count": 3
+          },
+          {
+            "key": "Protein World",
+            "text": "Protein World",
+            "count": 3
+          },
+          {
+            "key": "Ravensburger",
+            "text": "Ravensburger",
+            "count": 3
+          },
+          {
+            "key": "Real Shaving Company",
+            "text": "Real Shaving Company",
+            "count": 3
+          },
+          {
+            "key": "S'ip",
+            "text": "S'ip",
+            "count": 3
+          },
+          {
+            "key": "Sanctuary Spa",
+            "text": "Sanctuary Spa",
+            "count": 3
+          },
+          {
+            "key": "Superdry",
+            "text": "Superdry",
+            "count": 3
+          },
+          {
+            "key": "Aqua Beads",
+            "text": "Aqua Beads",
+            "count": 2
+          },
+          {
+            "key": "Bloom and Blossom",
+            "text": "Bloom and Blossom",
+            "count": 2
+          },
+          {
+            "key": "Boots",
+            "text": "Boots",
+            "count": 2
+          },
+          {
+            "key": "Boots Pharmaceuticals",
+            "text": "Boots Pharmaceuticals",
+            "count": 2
+          },
+          {
+            "key": "Boys",
+            "text": "Boys",
+            "count": 2
+          },
+          {
+            "key": "Bulldog",
+            "text": "Bulldog",
+            "count": 2
+          },
+          {
+            "key": "Diesel",
+            "text": "Diesel",
+            "count": 2
+          },
+          {
+            "key": "Duplo",
+            "text": "Duplo",
+            "count": 2
+          },
+          {
+            "key": "E.L.F",
+            "text": "E.L.F",
+            "count": 2
+          },
+          {
+            "key": "FCUK",
+            "text": "FCUK",
+            "count": 2
+          },
+          {
+            "key": "Flair",
+            "text": "Flair",
+            "count": 2
+          },
+          {
+            "key": "Grow Gorgeous",
+            "text": "Grow Gorgeous",
+            "count": 2
+          },
+          {
+            "key": "H&A KIDS",
+            "text": "H&A KIDS",
+            "count": 2
+          },
+          {
+            "key": "Hot Wheels",
+            "text": "Hot Wheels",
+            "count": 2
+          },
+          {
+            "key": "Imperial Leather",
+            "text": "Imperial Leather",
+            "count": 2
+          },
+          {
+            "key": "In The Night Garden",
+            "text": "In The Night Garden",
+            "count": 2
+          },
+          {
+            "key": "Issey Miyake",
+            "text": "Issey Miyake",
+            "count": 2
+          },
+          {
+            "key": "Jimmy Choo",
+            "text": "Jimmy Choo",
+            "count": 2
+          },
+          {
+            "key": "Lexibook",
+            "text": "Lexibook",
+            "count": 2
+          },
+          {
+            "key": "Minions",
+            "text": "Minions",
+            "count": 2
+          },
+          {
+            "key": "Morphy Richards",
+            "text": "Morphy Richards",
+            "count": 2
+          },
+          {
+            "key": "Mothercare",
+            "text": "Mothercare",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "key": "bundle",
+        "text": "bundle",
+        "elements": [
+          {
+            "key": "false",
+            "text": "false",
+            "count": 1057
+          },
+          {
+            "key": "true",
+            "text": "true",
+            "count": 4
+          }
+        ]
+      },
+      {
+        "key": "liveFlag",
+        "text": "liveFlag",
+        "elements": [
+          {
+            "key": "true",
+            "text": "true",
+            "count": 1061
+          }
+        ]
+      },
+      {
+        "key": "productArea",
+        "text": "productArea",
+        "elements": [
+          {
+            "key": "NYX",
+            "text": "NYX",
+            "count": 24
+          },
+          {
+            "key": "Yankee candle",
+            "text": "Yankee candle",
+            "count": 23
+          },
+          {
+            "key": "LeapFrog",
+            "text": "LeapFrog",
+            "count": 21
+          },
+          {
+            "key": "Early Learning Centre",
+            "text": "Early Learning Centre",
+            "count": 15
+          },
+          {
+            "key": "Vtech",
+            "text": "Vtech",
+            "count": 14
+          },
+          {
+            "key": "Mini Club Christmas 3 Piece Set",
+            "text": "Mini Club Christmas 3 Piece Set",
+            "count": 7
+          },
+          {
+            "key": "Mini Club Christmas Jumper",
+            "text": "Mini Club Christmas Jumper",
+            "count": 7
+          },
+          {
+            "key": "Mini Club Christmas Knitted Dress Set",
+            "text": "Mini Club Christmas Knitted Dress Set",
+            "count": 7
+          },
+          {
+            "key": "Mini Club Mr Santa All In One",
+            "text": "Mini Club Mr Santa All In One",
+            "count": 7
+          },
+          {
+            "key": "Mini Club Mrs Santa All In One",
+            "text": "Mini Club Mrs Santa All In One",
+            "count": 7
+          },
+          {
+            "key": "Maybelline FaceStudio Chrome Extreme Highlighter",
+            "text": "Maybelline FaceStudio Chrome Extreme Highlighter",
+            "count": 5
+          },
+          {
+            "key": "NYX Professional Makeup Duo Chromatic Illuminating Highlighter Powder",
+            "text": "NYX Professional Makeup Duo Chromatic Illuminating Highlighter Powder",
+            "count": 5
+          },
+          {
+            "key": "Barry M Liquid Chrome - Liquid Fortune",
+            "text": "Barry M Liquid Chrome - Liquid Fortune",
+            "count": 4
+          },
+          {
+            "key": "Barry M Liquid Chrome Nail Paint",
+            "text": "Barry M Liquid Chrome Nail Paint",
+            "count": 4
+          },
+          {
+            "key": "Bare Minerals CRYSTALLINE GLOW™ Chrome Highlighter Sticks",
+            "text": "Bare Minerals CRYSTALLINE GLOW™ Chrome Highlighter Sticks",
+            "count": 3
+          },
+          {
+            "key": "L'Oreal Paris Christmas Collection Glitter Lipstick",
+            "text": "L'Oreal Paris Christmas Collection Glitter Lipstick",
+            "count": 3
+          },
+          {
+            "key": "LEGO",
+            "text": "LEGO",
+            "count": 3
+          },
+          {
+            "key": "L'Oreal Paris Christmas Collection Mono Eyeshadow",
+            "text": "L'Oreal Paris Christmas Collection Mono Eyeshadow",
+            "count": 2
+          },
+          {
+            "key": "VTech Peek & Play Phone",
+            "text": "VTech Peek & Play Phone",
+            "count": 2
+          },
+          {
+            "key": "e.l.f. Chromatic Eyeshadow Palette",
+            "text": "e.l.f. Chromatic Eyeshadow Palette",
+            "count": 2
+          },
+          {
+            "key": "3D Penguin Drop Earrings",
+            "text": "3D Penguin Drop Earrings",
+            "count": 1
+          },
+          {
+            "key": "50 Lap Karting For Two- Gift Experience Voucher",
+            "text": "50 Lap Karting For Two- Gift Experience Voucher",
+            "count": 1
+          },
+          {
+            "key": "All Boots glasses",
+            "text": "All Boots glasses",
+            "count": 1
+          },
+          {
+            "key": "Aquabeads Glamourous Jewels Designer Set",
+            "text": "Aquabeads Glamourous Jewels Designer Set",
+            "count": 1
+          },
+          {
+            "key": "Aquabeads Wonder Unicorn Set",
+            "text": "Aquabeads Wonder Unicorn Set",
+            "count": 1
+          },
+          {
+            "key": "Avene",
+            "text": "Avene",
+            "count": 1
+          },
+          {
+            "key": "BabaBing! Float baby bouncer Grey",
+            "text": "BabaBing! Float baby bouncer Grey",
+            "count": 1
+          },
+          {
+            "key": "Baby Annabell Doll",
+            "text": "Baby Annabell Doll",
+            "count": 1
+          },
+          {
+            "key": "Baby Annabell Doll Changing Bag",
+            "text": "Baby Annabell Doll Changing Bag",
+            "count": 1
+          },
+          {
+            "key": "Baby Annabell Mia So Soft Doll",
+            "text": "Baby Annabell Mia So Soft Doll",
+            "count": 1
+          },
+          {
+            "key": "Baby Annabell Newborn Doll",
+            "text": "Baby Annabell Newborn Doll",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Activity Arms Octopus",
+            "text": "Baby Einstein Activity Arms Octopus",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Bold New World High Contrast Playmat",
+            "text": "Baby Einstein Bold New World High Contrast Playmat",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Glow & Discover Light Bar Activity Station",
+            "text": "Baby Einstein Glow & Discover Light Bar Activity Station",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Infinity Block High Contrast Toy",
+            "text": "Baby Einstein Infinity Block High Contrast Toy",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Keys to Discover Piano",
+            "text": "Baby Einstein Keys to Discover Piano",
+            "count": 1
+          },
+          {
+            "key": "Baby Einstein Take Along Tunes",
+            "text": "Baby Einstein Take Along Tunes",
+            "count": 1
+          },
+          {
+            "key": "Barber Pro Skin Revival Kit",
+            "text": "Barber Pro Skin Revival Kit",
+            "count": 1
+          },
+          {
+            "key": "Barbie Club Chelsea Doll and Choo-Choo Train",
+            "text": "Barbie Club Chelsea Doll and Choo-Choo Train",
+            "count": 1
+          },
+          {
+            "key": "Barbie Club Chelsea Doll and Veggie Garden",
+            "text": "Barbie Club Chelsea Doll and Veggie Garden",
+            "count": 1
+          },
+          {
+            "key": "Barbie Club Chelsea Treehouse",
+            "text": "Barbie Club Chelsea Treehouse",
+            "count": 1
+          },
+          {
+            "key": "Barbie Dreamtopia Magical Dreamboat",
+            "text": "Barbie Dreamtopia Magical Dreamboat",
+            "count": 1
+          },
+          {
+            "key": "Barbie Dreamtopia Sweetville Castle",
+            "text": "Barbie Dreamtopia Sweetville Castle",
+            "count": 1
+          },
+          {
+            "key": "Beados Shopkins Activity Pack",
+            "text": "Beados Shopkins Activity Pack",
+            "count": 1
+          },
+          {
+            "key": "Beados Shopkins Ice Cream Truck",
+            "text": "Beados Shopkins Ice Cream Truck",
+            "count": 1
+          },
+          {
+            "key": "Beados colour pen starter pack",
+            "text": "Beados colour pen starter pack",
+            "count": 1
+          },
+          {
+            "key": "Below the Belt Grooming The Cool Collection",
+            "text": "Below the Belt Grooming The Cool Collection",
+            "count": 1
+          },
+          {
+            "key": "Below the Belt Grooming The Fresh Collection",
+            "text": "Below the Belt Grooming The Fresh Collection",
+            "count": 1
+          },
+          {
+            "key": "Below the Belt Grooming The Ultimate Collection",
+            "text": "Below the Belt Grooming The Ultimate Collection",
+            "count": 1
+          },
+          {
+            "key": "Ben & Holly's Elf Rocket",
+            "text": "Ben & Holly's Elf Rocket",
+            "count": 1
+          },
+          {
+            "key": "Ben & Holly's Little Kingdom Five Figure Pack",
+            "text": "Ben & Holly's Little Kingdom Five Figure Pack",
+            "count": 1
+          },
+          {
+            "key": "Ben & Holly's Thistle Castle Playset",
+            "text": "Ben & Holly's Thistle Castle Playset",
+            "count": 1
+          },
+          {
+            "key": "Bloom & Blossom BFG Bath, Book & Bedtime Gift Set",
+            "text": "Bloom & Blossom BFG Bath, Book & Bedtime Gift Set",
+            "count": 1
+          },
+          {
+            "key": "Bloom & Blossom Matilda Bath, Book & Bedtime Gift Set",
+            "text": "Bloom & Blossom Matilda Bath, Book & Bedtime Gift Set",
+            "count": 1
+          },
+          {
+            "key": "Boots Cosmetic Cotton Wool Balls x 100",
+            "text": "Boots Cosmetic Cotton Wool Balls x 100",
+            "count": 1
+          },
+          {
+            "key": "Boots Essentials Toy Tidy Bag - 1 x Pack",
+            "text": "Boots Essentials Toy Tidy Bag - 1 x Pack",
+            "count": 1
+          },
+          {
+            "key": "Boots Glucosamine Chondroitin MSM - 60 Tablets",
+            "text": "Boots Glucosamine Chondroitin MSM - 60 Tablets",
+            "count": 1
+          },
+          {
+            "key": "Boots Glucosamine Sulphate & Chondroitin Sulphate - 60 tablets",
+            "text": "Boots Glucosamine Sulphate & Chondroitin Sulphate - 60 tablets",
+            "count": 1
+          },
+          {
+            "key": "Bop It! Game",
+            "text": "Bop It! Game",
+            "count": 1
+          },
+          {
+            "key": "Bow & Bell Drop Earrings",
+            "text": "Bow & Bell Drop Earrings",
+            "count": 1
+          },
+          {
+            "key": "Braun FaceSpa Pro 921 Facial Epilator Bronze",
+            "text": "Braun FaceSpa Pro 921 Facial Epilator Bronze",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Barbell Rattle",
+            "text": "Bright Starts Barbell Rattle",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Barbell Rattle Pink",
+            "text": "Bright Starts Barbell Rattle Pink",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Chill & Teethe Teethers",
+            "text": "Bright Starts Chill & Teethe Teethers",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Chime Along Friends",
+            "text": "Bright Starts Chime Along Friends",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Explore & Cuddle Elephant",
+            "text": "Bright Starts Explore & Cuddle Elephant",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Hide & Peek Block",
+            "text": "Bright Starts Hide & Peek Block",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Lights & Sounds Fun Pad",
+            "text": "Bright Starts Lights & Sounds Fun Pad",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Lights Lights Baby Press and Glow Spinner Toy",
+            "text": "Bright Starts Lights Lights Baby Press and Glow Spinner Toy",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Lots of Links",
+            "text": "Bright Starts Lots of Links",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Pink Chime Along Friends",
+            "text": "Bright Starts Pink Chime Along Friends",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Pink Rattle me Bracelets",
+            "text": "Bright Starts Pink Rattle me Bracelets",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Pretty In Pink Tug Tunes Toy",
+            "text": "Bright Starts Pretty In Pink Tug Tunes Toy",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Rattle me Wrist Pals",
+            "text": "Bright Starts Rattle me Wrist Pals",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Roll N Glow Monkey",
+            "text": "Bright Starts Roll N Glow Monkey",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Safari Beats Drums",
+            "text": "Bright Starts Safari Beats Drums",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts See & Play Auto Mirror",
+            "text": "Bright Starts See & Play Auto Mirror",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Shake & Glow Monkey",
+            "text": "Bright Starts Shake & Glow Monkey",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Sparkle & Shine Unicorn",
+            "text": "Bright Starts Sparkle & Shine Unicorn",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Spin & Shake Activity Balls",
+            "text": "Bright Starts Spin & Shake Activity Balls",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Take Along Tiger Toy Bar",
+            "text": "Bright Starts Take Along Tiger Toy Bar",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Take n' Shake",
+            "text": "Bright Starts Take n' Shake",
+            "count": 1
+          },
+          {
+            "key": "Bright Starts Teethe & Rattle Pals",
+            "text": "Bright Starts Teethe & Rattle Pals",
+            "count": 1
+          },
+          {
+            "key": "Brut After Shave and Deodorant Gift Set",
+            "text": "Brut After Shave and Deodorant Gift Set",
+            "count": 1
+          },
+          {
+            "key": "Build a Bot Bee",
+            "text": "Build a Bot Bee",
+            "count": 1
+          },
+          {
+            "key": "Bulldog Original Shave Essentials Kit",
+            "text": "Bulldog Original Shave Essentials Kit",
+            "count": 1
+          },
+          {
+            "key": "Bulldog Travel Tin Gift Set",
+            "text": "Bulldog Travel Tin Gift Set",
+            "count": 1
+          },
+          {
+            "key": "Bush Baby World Princess Frostina",
+            "text": "Bush Baby World Princess Frostina",
+            "count": 1
+          },
+          {
+            "key": "Bush Baby World Shimmies Princess Melina",
+            "text": "Bush Baby World Shimmies Princess Melina",
+            "count": 1
+          },
+          {
+            "key": "Casdon Cleaning Trolley - Henry",
+            "text": "Casdon Cleaning Trolley - Henry",
+            "count": 1
+          },
+          {
+            "key": "Casdon Cleaning Trolley - Hetty",
+            "text": "Casdon Cleaning Trolley - Hetty",
+            "count": 1
+          },
+          {
+            "key": "Casdon Dolls Bath & Potty",
+            "text": "Casdon Dolls Bath & Potty",
+            "count": 1
+          },
+          {
+            "key": "Casdon Dolls Car Booster Seat",
+            "text": "Casdon Dolls Car Booster Seat",
+            "count": 1
+          },
+          {
+            "key": "Casdon Dolls Changing Mat Set",
+            "text": "Casdon Dolls Changing Mat Set",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Dyson Ball Vacuum Cleaner",
+            "text": "Casdon Little Helper Dyson Ball Vacuum Cleaner",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Electronic Cooker",
+            "text": "Casdon Little Helper Electronic Cooker",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Electronic Washing Machine",
+            "text": "Casdon Little Helper Electronic Washing Machine",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Ironing Set",
+            "text": "Casdon Little Helper Ironing Set",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Morphy Richards Toy Microwave, Kettle and Toaster",
+            "text": "Casdon Little Helper Morphy Richards Toy Microwave, Kettle and Toaster",
+            "count": 1
+          },
+          {
+            "key": "Casdon Little Helper Pan Set",
+            "text": "Casdon Little Helper Pan Set",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "currentPrice",
+        "text": "currentPrice",
+        "elements": [
+          {
+            "key": "1",
+            "text": "1",
+            "count": 4
+          },
+          {
+            "key": "2",
+            "text": "2",
+            "count": 7
+          },
+          {
+            "key": "3",
+            "text": "3",
+            "count": 16
+          },
+          {
+            "key": "4",
+            "text": "4",
+            "count": 25
+          },
+          {
+            "key": "5",
+            "text": "5",
+            "count": 27
+          },
+          {
+            "key": "6",
+            "text": "6",
+            "count": 13
+          },
+          {
+            "key": "7",
+            "text": "7",
+            "count": 14
+          },
+          {
+            "key": "8",
+            "text": "8",
+            "count": 25
+          },
+          {
+            "key": "9",
+            "text": "9",
+            "count": 26
+          },
+          {
+            "key": "10",
+            "text": "10",
+            "count": 56
+          },
+          {
+            "key": "11",
+            "text": "11",
+            "count": 8
+          },
+          {
+            "key": "12",
+            "text": "12",
+            "count": 30
+          },
+          {
+            "key": "13",
+            "text": "13",
+            "count": 27
+          },
+          {
+            "key": "14",
+            "text": "14",
+            "count": 15
+          },
+          {
+            "key": "15",
+            "text": "15",
+            "count": 57
+          },
+          {
+            "key": "16",
+            "text": "16",
+            "count": 19
+          },
+          {
+            "key": "17",
+            "text": "17",
+            "count": 23
+          },
+          {
+            "key": "18",
+            "text": "18",
+            "count": 35
+          },
+          {
+            "key": "19",
+            "text": "19",
+            "count": 4
+          },
+          {
+            "key": "20",
+            "text": "20",
+            "count": 58
+          },
+          {
+            "key": "22",
+            "text": "22",
+            "count": 23
+          },
+          {
+            "key": "23",
+            "text": "23",
+            "count": 16
+          },
+          {
+            "key": "25",
+            "text": "25",
+            "count": 42
+          },
+          {
+            "key": "26",
+            "text": "26",
+            "count": 6
+          },
+          {
+            "key": "27",
+            "text": "27",
+            "count": 3
+          },
+          {
+            "key": "28",
+            "text": "28",
+            "count": 3
+          },
+          {
+            "key": "30",
+            "text": "30",
+            "count": 19
+          },
+          {
+            "key": "32",
+            "text": "32",
+            "count": 2
+          },
+          {
+            "key": "34",
+            "text": "34",
+            "count": 4
+          },
+          {
+            "key": "35",
+            "text": "35",
+            "count": 8
+          },
+          {
+            "key": "38",
+            "text": "38",
+            "count": 4
+          },
+          {
+            "key": "39",
+            "text": "39",
+            "count": 3
+          },
+          {
+            "key": "40",
+            "text": "40",
+            "count": 18
+          },
+          {
+            "key": "45",
+            "text": "45",
+            "count": 5
+          },
+          {
+            "key": "47",
+            "text": "47",
+            "count": 2
+          },
+          {
+            "key": "49",
+            "text": "49",
+            "count": 5
+          },
+          {
+            "key": "50",
+            "text": "50",
+            "count": 10
+          },
+          {
+            "key": "55",
+            "text": "55",
+            "count": 3
+          },
+          {
+            "key": "60",
+            "text": "60",
+            "count": 3
+          },
+          {
+            "key": "69",
+            "text": "69",
+            "count": 2
+          },
+          {
+            "key": "70",
+            "text": "70",
+            "count": 3
+          },
+          {
+            "key": "72",
+            "text": "72",
+            "count": 2
+          },
+          {
+            "key": "79",
+            "text": "79",
+            "count": 5
+          },
+          {
+            "key": "80",
+            "text": "80",
+            "count": 2
+          },
+          {
+            "key": "89",
+            "text": "89",
+            "count": 3
+          },
+          {
+            "key": "99",
+            "text": "99",
+            "count": 3
+          },
+          {
+            "key": "100",
+            "text": "100",
+            "count": 3
+          },
+          {
+            "key": "119",
+            "text": "119",
+            "count": 2
+          },
+          {
+            "key": "169",
+            "text": "169",
+            "count": 2
+          },
+          {
+            "key": "299",
+            "text": "299",
+            "count": 2
+          },
+          {
+            "key": "400",
+            "text": "400",
+            "count": 3
+          },
+          {
+            "key": "825",
+            "text": "825",
+            "count": 3
+          },
+          {
+            "key": "19.99",
+            "text": "19.99",
+            "count": 26
+          },
+          {
+            "key": "6.5",
+            "text": "6.5",
+            "count": 24
+          },
+          {
+            "key": "9.99",
+            "text": "9.99",
+            "count": 23
+          },
+          {
+            "key": "6.99",
+            "text": "6.99",
+            "count": 21
+          },
+          {
+            "key": "14.99",
+            "text": "14.99",
+            "count": 20
+          },
+          {
+            "key": "23.99",
+            "text": "23.99",
+            "count": 14
+          },
+          {
+            "key": "8.99",
+            "text": "8.99",
+            "count": 13
+          },
+          {
+            "key": "24.99",
+            "text": "24.99",
+            "count": 11
+          },
+          {
+            "key": "10.99",
+            "text": "10.99",
+            "count": 9
+          },
+          {
+            "key": "29.99",
+            "text": "29.99",
+            "count": 9
+          },
+          {
+            "key": "4.99",
+            "text": "4.99",
+            "count": 9
+          },
+          {
+            "key": "5.99",
+            "text": "5.99",
+            "count": 9
+          },
+          {
+            "key": "7.99",
+            "text": "7.99",
+            "count": 9
+          },
+          {
+            "key": "3.99",
+            "text": "3.99",
+            "count": 8
+          },
+          {
+            "key": "11.99",
+            "text": "11.99",
+            "count": 7
+          },
+          {
+            "key": "26.99",
+            "text": "26.99",
+            "count": 7
+          },
+          {
+            "key": "12.99",
+            "text": "12.99",
+            "count": 5
+          },
+          {
+            "key": "16.99",
+            "text": "16.99",
+            "count": 5
+          },
+          {
+            "key": "17.99",
+            "text": "17.99",
+            "count": 5
+          },
+          {
+            "key": "18.99",
+            "text": "18.99",
+            "count": 5
+          },
+          {
+            "key": "34.99",
+            "text": "34.99",
+            "count": 5
+          },
+          {
+            "key": "4.25",
+            "text": "4.25",
+            "count": 5
+          },
+          {
+            "key": "49.99",
+            "text": "49.99",
+            "count": 5
+          },
+          {
+            "key": "2.5",
+            "text": "2.5",
+            "count": 4
+          },
+          {
+            "key": "12.5",
+            "text": "12.5",
+            "count": 3
+          },
+          {
+            "key": "15.99",
+            "text": "15.99",
+            "count": 3
+          },
+          {
+            "key": "199.99",
+            "text": "199.99",
+            "count": 3
+          },
+          {
+            "key": "25.99",
+            "text": "25.99",
+            "count": 3
+          },
+          {
+            "key": "3.5",
+            "text": "3.5",
+            "count": 3
+          },
+          {
+            "key": "69.99",
+            "text": "69.99",
+            "count": 3
+          },
+          {
+            "key": "10.49",
+            "text": "10.49",
+            "count": 2
+          },
+          {
+            "key": "10.95",
+            "text": "10.95",
+            "count": 2
+          },
+          {
+            "key": "129.99",
+            "text": "129.99",
+            "count": 2
+          },
+          {
+            "key": "19.19",
+            "text": "19.19",
+            "count": 2
+          },
+          {
+            "key": "2.49",
+            "text": "2.49",
+            "count": 2
+          },
+          {
+            "key": "2.79",
+            "text": "2.79",
+            "count": 2
+          },
+          {
+            "key": "21.99",
+            "text": "21.99",
+            "count": 2
+          },
+          {
+            "key": "219.99",
+            "text": "219.99",
+            "count": 2
+          },
+          {
+            "key": "22.99",
+            "text": "22.99",
+            "count": 2
+          },
+          {
+            "key": "3.15",
+            "text": "3.15",
+            "count": 2
+          },
+          {
+            "key": "3.25",
+            "text": "3.25",
+            "count": 2
+          },
+          {
+            "key": "32.99",
+            "text": "32.99",
+            "count": 2
+          },
+          {
+            "key": "39.99",
+            "text": "39.99",
+            "count": 2
+          },
+          {
+            "key": "54.99",
+            "text": "54.99",
+            "count": 2
+          },
+          {
+            "key": "6.75",
+            "text": "6.75",
+            "count": 2
+          },
+          {
+            "key": "1.29",
+            "text": "1.29",
+            "count": 1
+          },
+          {
+            "key": "1.4",
+            "text": "1.4",
+            "count": 1
+          },
+          {
+            "key": "1.99",
+            "text": "1.99",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "numberOfSales",
+        "text": "numberOfSales",
+        "elements": [
+          {
+            "key": "0",
+            "text": "0",
+            "count": 1059
+          },
+          {
+            "key": "1",
+            "text": "1",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "key": "productColour",
+        "text": "productColour",
+        "elements": [
+          {
+            "key": "Blue#004899",
+            "text": "Blue#004899",
+            "count": 31
+          },
+          {
+            "key": "Orange#EA5B0C",
+            "text": "Orange#EA5B0C",
+            "count": 29
+          },
+          {
+            "key": "Pink#EC69A4",
+            "text": "Pink#EC69A4",
+            "count": 29
+          },
+          {
+            "key": "Purple#662483",
+            "text": "Purple#662483",
+            "count": 29
+          },
+          {
+            "key": "Brown#683C12",
+            "text": "Brown#683C12",
+            "count": 24
+          },
+          {
+            "key": "Gold#C98910",
+            "text": "Gold#C98910",
+            "count": 24
+          },
+          {
+            "key": "Green#009640",
+            "text": "Green#009640",
+            "count": 24
+          },
+          {
+            "key": "Grey#7D7D7D",
+            "text": "Grey#7D7D7D",
+            "count": 24
+          },
+          {
+            "key": "Silver#D3D3D3",
+            "text": "Silver#D3D3D3",
+            "count": 24
+          },
+          {
+            "key": "White#FFFFFF",
+            "text": "White#FFFFFF",
+            "count": 24
+          },
+          {
+            "key": "Yellow#FFD73E",
+            "text": "Yellow#FFD73E",
+            "count": 24
+          }
+        ]
+      },
+      {
+        "key": "promotionalText",
+        "text": "promotionalText",
+        "elements": [
+          {
+            "key": "3 for 2 Christmas Mix and Match",
+            "text": "3 for 2 Christmas Mix and Match",
+            "count": 479
+          },
+          {
+            "key": "Save £10 on selected fragrance",
+            "text": "Save £10 on selected fragrance",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "averageReviewScore",
+        "text": "averageReviewScore",
+        "elements": [
+          {
+            "key": "1",
+            "text": "1",
+            "count": 10
+          },
+          {
+            "key": "2",
+            "text": "2",
+            "count": 20
+          },
+          {
+            "key": "3",
+            "text": "3",
+            "count": 21
+          },
+          {
+            "key": "4",
+            "text": "4",
+            "count": 12
+          },
+          {
+            "key": "5",
+            "text": "5",
+            "count": 111
+          },
+          {
+            "key": "4.5",
+            "text": "4.5",
+            "count": 9
+          },
+          {
+            "key": "4.67",
+            "text": "4.67",
+            "count": 9
+          },
+          {
+            "key": "4.83",
+            "text": "4.83",
+            "count": 7
+          },
+          {
+            "key": "2.33",
+            "text": "2.33",
+            "count": 6
+          },
+          {
+            "key": "3.67",
+            "text": "3.67",
+            "count": 6
+          },
+          {
+            "key": "3.5",
+            "text": "3.5",
+            "count": 5
+          },
+          {
+            "key": "4.24",
+            "text": "4.24",
+            "count": 5
+          },
+          {
+            "key": "4.33",
+            "text": "4.33",
+            "count": 5
+          },
+          {
+            "key": "4.75",
+            "text": "4.75",
+            "count": 5
+          },
+          {
+            "key": "2.6",
+            "text": "2.6",
+            "count": 4
+          },
+          {
+            "key": "4.25",
+            "text": "4.25",
+            "count": 4
+          },
+          {
+            "key": "4.17",
+            "text": "4.17",
+            "count": 3
+          },
+          {
+            "key": "4.2",
+            "text": "4.2",
+            "count": 3
+          },
+          {
+            "key": "4.65",
+            "text": "4.65",
+            "count": 3
+          },
+          {
+            "key": "1.67",
+            "text": "1.67",
+            "count": 2
+          },
+          {
+            "key": "2.89",
+            "text": "2.89",
+            "count": 2
+          },
+          {
+            "key": "3.8",
+            "text": "3.8",
+            "count": 2
+          },
+          {
+            "key": "4.1",
+            "text": "4.1",
+            "count": 2
+          },
+          {
+            "key": "4.11",
+            "text": "4.11",
+            "count": 2
+          },
+          {
+            "key": "4.18",
+            "text": "4.18",
+            "count": 2
+          },
+          {
+            "key": "4.45",
+            "text": "4.45",
+            "count": 2
+          },
+          {
+            "key": "4.53",
+            "text": "4.53",
+            "count": 2
+          },
+          {
+            "key": "4.64",
+            "text": "4.64",
+            "count": 2
+          },
+          {
+            "key": "4.78",
+            "text": "4.78",
+            "count": 2
+          },
+          {
+            "key": "4.8",
+            "text": "4.8",
+            "count": 2
+          },
+          {
+            "key": "4.88",
+            "text": "4.88",
+            "count": 2
+          },
+          {
+            "key": "1.4",
+            "text": "1.4",
+            "count": 1
+          },
+          {
+            "key": "1.5",
+            "text": "1.5",
+            "count": 1
+          },
+          {
+            "key": "2.08",
+            "text": "2.08",
+            "count": 1
+          },
+          {
+            "key": "2.1",
+            "text": "2.1",
+            "count": 1
+          },
+          {
+            "key": "2.5",
+            "text": "2.5",
+            "count": 1
+          },
+          {
+            "key": "2.67",
+            "text": "2.67",
+            "count": 1
+          },
+          {
+            "key": "2.71",
+            "text": "2.71",
+            "count": 1
+          },
+          {
+            "key": "2.8",
+            "text": "2.8",
+            "count": 1
+          },
+          {
+            "key": "2.91",
+            "text": "2.91",
+            "count": 1
+          },
+          {
+            "key": "3.09",
+            "text": "3.09",
+            "count": 1
+          },
+          {
+            "key": "3.36",
+            "text": "3.36",
+            "count": 1
+          },
+          {
+            "key": "3.46",
+            "text": "3.46",
+            "count": 1
+          },
+          {
+            "key": "3.54",
+            "text": "3.54",
+            "count": 1
+          },
+          {
+            "key": "3.55",
+            "text": "3.55",
+            "count": 1
+          },
+          {
+            "key": "3.57",
+            "text": "3.57",
+            "count": 1
+          },
+          {
+            "key": "3.63",
+            "text": "3.63",
+            "count": 1
+          },
+          {
+            "key": "3.64",
+            "text": "3.64",
+            "count": 1
+          },
+          {
+            "key": "3.73",
+            "text": "3.73",
+            "count": 1
+          },
+          {
+            "key": "3.85",
+            "text": "3.85",
+            "count": 1
+          },
+          {
+            "key": "3.86",
+            "text": "3.86",
+            "count": 1
+          },
+          {
+            "key": "3.92",
+            "text": "3.92",
+            "count": 1
+          },
+          {
+            "key": "3.97",
+            "text": "3.97",
+            "count": 1
+          },
+          {
+            "key": "4.06",
+            "text": "4.06",
+            "count": 1
+          },
+          {
+            "key": "4.13",
+            "text": "4.13",
+            "count": 1
+          },
+          {
+            "key": "4.15",
+            "text": "4.15",
+            "count": 1
+          },
+          {
+            "key": "4.19",
+            "text": "4.19",
+            "count": 1
+          },
+          {
+            "key": "4.22",
+            "text": "4.22",
+            "count": 1
+          },
+          {
+            "key": "4.36",
+            "text": "4.36",
+            "count": 1
+          },
+          {
+            "key": "4.37",
+            "text": "4.37",
+            "count": 1
+          },
+          {
+            "key": "4.38",
+            "text": "4.38",
+            "count": 1
+          },
+          {
+            "key": "4.4",
+            "text": "4.4",
+            "count": 1
+          },
+          {
+            "key": "4.43",
+            "text": "4.43",
+            "count": 1
+          },
+          {
+            "key": "4.52",
+            "text": "4.52",
+            "count": 1
+          },
+          {
+            "key": "4.55",
+            "text": "4.55",
+            "count": 1
+          },
+          {
+            "key": "4.57",
+            "text": "4.57",
+            "count": 1
+          },
+          {
+            "key": "4.59",
+            "text": "4.59",
+            "count": 1
+          },
+          {
+            "key": "4.6",
+            "text": "4.6",
+            "count": 1
+          },
+          {
+            "key": "4.71",
+            "text": "4.71",
+            "count": 1
+          },
+          {
+            "key": "4.74",
+            "text": "4.74",
+            "count": 1
+          },
+          {
+            "key": "4.82",
+            "text": "4.82",
+            "count": 1
+          },
+          {
+            "key": "4.86",
+            "text": "4.86",
+            "count": 1
+          },
+          {
+            "key": "4.9",
+            "text": "4.9",
+            "count": 1
+          },
+          {
+            "key": "4.91",
+            "text": "4.91",
+            "count": 1
+          },
+          {
+            "key": "4.92",
+            "text": "4.92",
+            "count": 1
+          },
+          {
+            "key": "4.95",
+            "text": "4.95",
+            "count": 1
+          },
+          {
+            "key": "4.96",
+            "text": "4.96",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "roundedReviewScore",
+        "text": "roundedReviewScore",
+        "elements": [
+          {
+            "key": "1",
+            "text": "1",
+            "count": 14
+          },
+          {
+            "key": "2",
+            "text": "2",
+            "count": 39
+          },
+          {
+            "key": "3",
+            "text": "3",
+            "count": 47
+          },
+          {
+            "key": "4",
+            "text": "4",
+            "count": 107
+          },
+          {
+            "key": "5",
+            "text": "5",
+            "count": 111
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.size",
+        "text": "productAttributes.size",
+        "elements": [
+          {
+            "key": "size",
+            "text": "size",
+            "count": 35
+          },
+          {
+            "key": "50 - 99 ml",
+            "text": "50 - 99 ml",
+            "count": 14
+          },
+          {
+            "key": "large",
+            "text": "large",
+            "count": 7
+          },
+          {
+            "key": "one size",
+            "text": "one size",
+            "count": 7
+          },
+          {
+            "key": "small",
+            "text": "small",
+            "count": 7
+          },
+          {
+            "key": "100 - 199 ml",
+            "text": "100 - 199 ml",
+            "count": 5
+          },
+          {
+            "key": "200 - 299 ml",
+            "text": "200 - 299 ml",
+            "count": 4
+          },
+          {
+            "key": "25 - 49 ml",
+            "text": "25 - 49 ml",
+            "count": 3
+          },
+          {
+            "key": "400 - 499 ml",
+            "text": "400 - 499 ml",
+            "count": 3
+          },
+          {
+            "key": "400 - 499 g",
+            "text": "400 - 499 g",
+            "count": 2
+          },
+          {
+            "key": "500 - 599 g",
+            "text": "500 - 599 g",
+            "count": 2
+          },
+          {
+            "key": "100 - 199 g",
+            "text": "100 - 199 g",
+            "count": 1
+          },
+          {
+            "key": "50 - 99 g",
+            "text": "50 - 99 g",
+            "count": 1
+          },
+          {
+            "key": "500 - 749 g",
+            "text": "500 - 749 g",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.Colour",
+        "text": "productAttributes.Colour",
+        "elements": [
+          {
+            "key": "1 LIQUID FORTUNE",
+            "text": "1 LIQUID FORTUNE",
+            "count": 1
+          },
+          {
+            "key": "2 BEAME UP",
+            "text": "2 BEAME UP",
+            "count": 1
+          },
+          {
+            "key": "4 MOON POTION",
+            "text": "4 MOON POTION",
+            "count": 1
+          },
+          {
+            "key": "5 AT FIRST LIGHT",
+            "text": "5 AT FIRST LIGHT",
+            "count": 1
+          },
+          {
+            "key": "BIRD OF PARADISE",
+            "text": "BIRD OF PARADISE",
+            "count": 1
+          },
+          {
+            "key": "BRIGHTEN UP",
+            "text": "BRIGHTEN UP",
+            "count": 1
+          },
+          {
+            "key": "CLOSE NIGHT",
+            "text": "CLOSE NIGHT",
+            "count": 1
+          },
+          {
+            "key": "CONSTELLATION",
+            "text": "CONSTELLATION",
+            "count": 1
+          },
+          {
+            "key": "CRAZED",
+            "text": "CRAZED",
+            "count": 1
+          },
+          {
+            "key": "CRUSHED BLOOM",
+            "text": "CRUSHED BLOOM",
+            "count": 1
+          },
+          {
+            "key": "CRYSTAL",
+            "text": "CRYSTAL",
+            "count": 1
+          },
+          {
+            "key": "DIAMOND",
+            "text": "DIAMOND",
+            "count": 1
+          },
+          {
+            "key": "DIAMOND GLOW",
+            "text": "DIAMOND GLOW",
+            "count": 1
+          },
+          {
+            "key": "EGOTASTIC",
+            "text": "EGOTASTIC",
+            "count": 1
+          },
+          {
+            "key": "FROYO",
+            "text": "FROYO",
+            "count": 1
+          },
+          {
+            "key": "GO H.A.M",
+            "text": "GO H.A.M",
+            "count": 1
+          },
+          {
+            "key": "Gunmetal",
+            "text": "Gunmetal",
+            "count": 1
+          },
+          {
+            "key": "HENNA",
+            "text": "HENNA",
+            "count": 1
+          },
+          {
+            "key": "INSOMNIA",
+            "text": "INSOMNIA",
+            "count": 1
+          },
+          {
+            "key": "KRYPTONITE",
+            "text": "KRYPTONITE",
+            "count": 1
+          },
+          {
+            "key": "LAVENDER STEEL",
+            "text": "LAVENDER STEEL",
+            "count": 1
+          },
+          {
+            "key": "LUNA",
+            "text": "LUNA",
+            "count": 1
+          },
+          {
+            "key": "MAGNETIC",
+            "text": "MAGNETIC",
+            "count": 1
+          },
+          {
+            "key": "METALLIC VELVET",
+            "text": "METALLIC VELVET",
+            "count": 1
+          },
+          {
+            "key": "MOLTEN GOLD",
+            "text": "MOLTEN GOLD",
+            "count": 1
+          },
+          {
+            "key": "MOLTEN ROSE GOLD",
+            "text": "MOLTEN ROSE GOLD",
+            "count": 1
+          },
+          {
+            "key": "NIGHTINGALE",
+            "text": "NIGHTINGALE",
+            "count": 1
+          },
+          {
+            "key": "NUDE AFTER PARTY",
+            "text": "NUDE AFTER PARTY",
+            "count": 1
+          },
+          {
+            "key": "OLD HOLLYWOOD",
+            "text": "OLD HOLLYWOOD",
+            "count": 1
+          },
+          {
+            "key": "PARIS BURNING",
+            "text": "PARIS BURNING",
+            "count": 1
+          },
+          {
+            "key": "PEACOCK",
+            "text": "PEACOCK",
+            "count": 1
+          },
+          {
+            "key": "PEARL",
+            "text": "PEARL",
+            "count": 1
+          },
+          {
+            "key": "POSH PEACOCK",
+            "text": "POSH PEACOCK",
+            "count": 1
+          },
+          {
+            "key": "POTION",
+            "text": "POTION",
+            "count": 1
+          },
+          {
+            "key": "PURPLE LIGHTS",
+            "text": "PURPLE LIGHTS",
+            "count": 1
+          },
+          {
+            "key": "QUARTZ",
+            "text": "QUARTZ",
+            "count": 1
+          },
+          {
+            "key": "SANDSTONE SHIMMER",
+            "text": "SANDSTONE SHIMMER",
+            "count": 1
+          },
+          {
+            "key": "SHANGHAI SUN",
+            "text": "SHANGHAI SUN",
+            "count": 1
+          },
+          {
+            "key": "SNOW ROSE",
+            "text": "SNOW ROSE",
+            "count": 1
+          },
+          {
+            "key": "SPARKLING CITRINE",
+            "text": "SPARKLING CITRINE",
+            "count": 1
+          },
+          {
+            "key": "STARDUST",
+            "text": "STARDUST",
+            "count": 1
+          },
+          {
+            "key": "STUNNER",
+            "text": "STUNNER",
+            "count": 1
+          },
+          {
+            "key": "SYNTHETICA",
+            "text": "SYNTHETICA",
+            "count": 1
+          },
+          {
+            "key": "TWIGHLIGHT TINT",
+            "text": "TWIGHLIGHT TINT",
+            "count": 1
+          },
+          {
+            "key": "TWINKLE, TWINKLE",
+            "text": "TWINKLE, TWINKLE",
+            "count": 1
+          },
+          {
+            "key": "VEGAS, BABY!",
+            "text": "VEGAS, BABY!",
+            "count": 1
+          },
+          {
+            "key": "VENETIAN",
+            "text": "VENETIAN",
+            "count": 1
+          },
+          {
+            "key": "VERMOUTH",
+            "text": "VERMOUTH",
+            "count": 1
+          },
+          {
+            "key": "bright lights",
+            "text": "bright lights",
+            "count": 1
+          },
+          {
+            "key": "glow crazy",
+            "text": "glow crazy",
+            "count": 1
+          },
+          {
+            "key": "rain on me",
+            "text": "rain on me",
+            "count": 1
+          },
+          {
+            "key": "razzle dazzle",
+            "text": "razzle dazzle",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.format",
+        "text": "productAttributes.format",
+        "elements": [
+          {
+            "key": "spray",
+            "text": "spray",
+            "count": 18
+          },
+          {
+            "key": "powder",
+            "text": "powder",
+            "count": 10
+          },
+          {
+            "key": "shakes",
+            "text": "shakes",
+            "count": 6
+          },
+          {
+            "key": "tablets",
+            "text": "tablets",
+            "count": 5
+          },
+          {
+            "key": "cream",
+            "text": "cream",
+            "count": 4
+          },
+          {
+            "key": "gel",
+            "text": "gel",
+            "count": 2
+          },
+          {
+            "key": "lotion",
+            "text": "lotion",
+            "count": 2
+          },
+          {
+            "key": "balm",
+            "text": "balm",
+            "count": 1
+          },
+          {
+            "key": "mask",
+            "text": "mask",
+            "count": 1
+          },
+          {
+            "key": "oil",
+            "text": "oil",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.gender",
+        "text": "productAttributes.gender",
+        "elements": [
+          {
+            "key": "men",
+            "text": "men",
+            "count": 44
+          },
+          {
+            "key": "baby boy",
+            "text": "baby boy",
+            "count": 14
+          },
+          {
+            "key": "baby girl",
+            "text": "baby girl",
+            "count": 14
+          },
+          {
+            "key": "women",
+            "text": "women",
+            "count": 12
+          },
+          {
+            "key": "unisex",
+            "text": "unisex",
+            "count": 7
+          },
+          {
+            "key": "kids",
+            "text": "kids",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.sku_size",
+        "text": "productAttributes.sku_size",
+        "elements": [
+          {
+            "key": "0-3 months",
+            "text": "0-3 months",
+            "count": 4
+          },
+          {
+            "key": "12-18 months",
+            "text": "12-18 months",
+            "count": 4
+          },
+          {
+            "key": "18-24 months",
+            "text": "18-24 months",
+            "count": 4
+          },
+          {
+            "key": "3-6 months",
+            "text": "3-6 months",
+            "count": 4
+          },
+          {
+            "key": "6-9 months",
+            "text": "6-9 months",
+            "count": 4
+          },
+          {
+            "key": "9-12 months",
+            "text": "9-12 months",
+            "count": 4
+          },
+          {
+            "key": "Up to 4.5 kg",
+            "text": "Up to 4.5 kg",
+            "count": 4
+          },
+          {
+            "key": "0 - 3 months",
+            "text": "0 - 3 months",
+            "count": 1
+          },
+          {
+            "key": "12 - 18 months",
+            "text": "12 - 18 months",
+            "count": 1
+          },
+          {
+            "key": "18 - 24 months",
+            "text": "18 - 24 months",
+            "count": 1
+          },
+          {
+            "key": "3 - 6 months",
+            "text": "3 - 6 months",
+            "count": 1
+          },
+          {
+            "key": "6 - 9 months",
+            "text": "6 - 9 months",
+            "count": 1
+          },
+          {
+            "key": "9 - 12 months",
+            "text": "9 - 12 months",
+            "count": 1
+          },
+          {
+            "key": "Up to 4.5kg",
+            "text": "Up to 4.5kg",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "categoryMap.categories.lvl0",
+        "text": "categoryMap.categories.lvl0",
+        "elements": [
+          {
+            "key": "offers",
+            "text": "offers",
+            "count": 966
+          },
+          {
+            "key": "gift",
+            "text": "gift",
+            "count": 834
+          },
+          {
+            "key": "baby & child",
+            "text": "baby & child",
+            "count": 752
+          },
+          {
+            "key": "beauty & skincare",
+            "text": "beauty & skincare",
+            "count": 76
+          },
+          {
+            "key": "toiletries",
+            "text": "toiletries",
+            "count": 64
+          },
+          {
+            "key": "men's",
+            "text": "men's",
+            "count": 50
+          },
+          {
+            "key": "wellness",
+            "text": "wellness",
+            "count": 39
+          },
+          {
+            "key": "health & pharmacy",
+            "text": "health & pharmacy",
+            "count": 23
+          },
+          {
+            "key": "sun & holiday",
+            "text": "sun & holiday",
+            "count": 21
+          },
+          {
+            "key": "fragrance",
+            "text": "fragrance",
+            "count": 19
+          },
+          {
+            "key": "electrical",
+            "text": "electrical",
+            "count": 14
+          },
+          {
+            "key": "health",
+            "text": "health",
+            "count": 5
+          },
+          {
+            "key": "opticians",
+            "text": "opticians",
+            "count": 2
+          },
+          {
+            "key": "opticians services",
+            "text": "opticians services",
+            "count": 2
+          },
+          {
+            "key": "photo",
+            "text": "photo",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "categoryMap.categories.lvl2",
+        "text": "categoryMap.categories.lvl2",
+        "elements": [
+          {
+            "key": "christmas",
+            "text": "christmas",
+            "count": 961
+          },
+          {
+            "key": "all toys",
+            "text": "all toys",
+            "count": 589
+          },
+          {
+            "key": "kids",
+            "text": "kids",
+            "count": 474
+          },
+          {
+            "key": "baby & preschool toys",
+            "text": "baby & preschool toys",
+            "count": 200
+          },
+          {
+            "key": "action figures, vehicles & playsets",
+            "text": "action figures, vehicles & playsets",
+            "count": 140
+          },
+          {
+            "key": "electronic & learning toys",
+            "text": "electronic & learning toys",
+            "count": 101
+          },
+          {
+            "key": "construction toys",
+            "text": "construction toys",
+            "count": 91
+          },
+          {
+            "key": "mother's day",
+            "text": "mother's day",
+            "count": 77
+          },
+          {
+            "key": "dressing up & role play",
+            "text": "dressing up & role play",
+            "count": 56
+          },
+          {
+            "key": "her",
+            "text": "her",
+            "count": 48
+          },
+          {
+            "key": "bath toys",
+            "text": "bath toys",
+            "count": 44
+          },
+          {
+            "key": "clearance",
+            "text": "clearance",
+            "count": 43
+          },
+          {
+            "key": "men's gift sets",
+            "text": "men's gift sets",
+            "count": 41
+          },
+          {
+            "key": "arts & crafts",
+            "text": "arts & crafts",
+            "count": 38
+          },
+          {
+            "key": "baby clothes",
+            "text": "baby clothes",
+            "count": 35
+          },
+          {
+            "key": "christmas clothes for kids",
+            "text": "christmas clothes for kids",
+            "count": 35
+          },
+          {
+            "key": "games & puzzles",
+            "text": "games & puzzles",
+            "count": 34
+          },
+          {
+            "key": "eyes",
+            "text": "eyes",
+            "count": 28
+          },
+          {
+            "key": "dolls & doll houses",
+            "text": "dolls & doll houses",
+            "count": 24
+          },
+          {
+            "key": "glitter and accessories",
+            "text": "glitter and accessories",
+            "count": 24
+          },
+          {
+            "key": "all clearance",
+            "text": "all clearance",
+            "count": 21
+          },
+          {
+            "key": "baby",
+            "text": "baby",
+            "count": 21
+          },
+          {
+            "key": "board games & puzzles",
+            "text": "board games & puzzles",
+            "count": 20
+          },
+          {
+            "key": "shaving & grooming",
+            "text": "shaving & grooming",
+            "count": 19
+          },
+          {
+            "key": "face",
+            "text": "face",
+            "count": 18
+          },
+          {
+            "key": "hair removal",
+            "text": "hair removal",
+            "count": 16
+          },
+          {
+            "key": "back to school",
+            "text": "back to school",
+            "count": 15
+          },
+          {
+            "key": "baby shower gifting",
+            "text": "baby shower gifting",
+            "count": 14
+          },
+          {
+            "key": "nails",
+            "text": "nails",
+            "count": 14
+          },
+          {
+            "key": "washing & bathing",
+            "text": "washing & bathing",
+            "count": 13
+          },
+          {
+            "key": "skincare & body",
+            "text": "skincare & body",
+            "count": 12
+          },
+          {
+            "key": "outdoor toys",
+            "text": "outdoor toys",
+            "count": 11
+          },
+          {
+            "key": "perfume gift sets",
+            "text": "perfume gift sets",
+            "count": 11
+          },
+          {
+            "key": "diet & weight management",
+            "text": "diet & weight management",
+            "count": 9
+          },
+          {
+            "key": "travel systems",
+            "text": "travel systems",
+            "count": 8
+          },
+          {
+            "key": "activity trackers",
+            "text": "activity trackers",
+            "count": 7
+          },
+          {
+            "key": "aftershave",
+            "text": "aftershave",
+            "count": 7
+          },
+          {
+            "key": "bouncers, swings & play gyms",
+            "text": "bouncers, swings & play gyms",
+            "count": 7
+          },
+          {
+            "key": "electrical health & diagnostics",
+            "text": "electrical health & diagnostics",
+            "count": 7
+          },
+          {
+            "key": "fitness equipment & activity trackers",
+            "text": "fitness equipment & activity trackers",
+            "count": 7
+          },
+          {
+            "key": "mobiles & night lights",
+            "text": "mobiles & night lights",
+            "count": 7
+          },
+          {
+            "key": "all value packs & bundles",
+            "text": "all value packs & bundles",
+            "count": 6
+          },
+          {
+            "key": "deodorants & antiperspirants",
+            "text": "deodorants & antiperspirants",
+            "count": 6
+          },
+          {
+            "key": "protein powder",
+            "text": "protein powder",
+            "count": 6
+          },
+          {
+            "key": "sports nutrition",
+            "text": "sports nutrition",
+            "count": 6
+          },
+          {
+            "key": "travel accessories",
+            "text": "travel accessories",
+            "count": 6
+          },
+          {
+            "key": "Beard care",
+            "text": "Beard care",
+            "count": 5
+          },
+          {
+            "key": "Father's Day",
+            "text": "Father's Day",
+            "count": 5
+          },
+          {
+            "key": "birthday",
+            "text": "birthday",
+            "count": 5
+          },
+          {
+            "key": "men's value packs & bundles",
+            "text": "men's value packs & bundles",
+            "count": 5
+          },
+          {
+            "key": "shop by ingredient",
+            "text": "shop by ingredient",
+            "count": 5
+          },
+          {
+            "key": "thank you",
+            "text": "thank you",
+            "count": 5
+          },
+          {
+            "key": "aftershave gift sets",
+            "text": "aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "baby & child toiletries",
+            "text": "baby & child toiletries",
+            "count": 4
+          },
+          {
+            "key": "bath sets",
+            "text": "bath sets",
+            "count": 4
+          },
+          {
+            "key": "changing bag essentials",
+            "text": "changing bag essentials",
+            "count": 4
+          },
+          {
+            "key": "fragrance",
+            "text": "fragrance",
+            "count": 4
+          },
+          {
+            "key": "gift wrapped sets",
+            "text": "gift wrapped sets",
+            "count": 4
+          },
+          {
+            "key": "joint health",
+            "text": "joint health",
+            "count": 4
+          },
+          {
+            "key": "natural toiletries",
+            "text": "natural toiletries",
+            "count": 4
+          },
+          {
+            "key": "Luxury Beauty Makeup",
+            "text": "Luxury Beauty Makeup",
+            "count": 3
+          },
+          {
+            "key": "Valentine's Day",
+            "text": "Valentine's Day",
+            "count": 3
+          },
+          {
+            "key": "all aftershave",
+            "text": "all aftershave",
+            "count": 3
+          },
+          {
+            "key": "all hair",
+            "text": "all hair",
+            "count": 3
+          },
+          {
+            "key": "him",
+            "text": "him",
+            "count": 3
+          },
+          {
+            "key": "holiday value packs & bundles",
+            "text": "holiday value packs & bundles",
+            "count": 3
+          },
+          {
+            "key": "jewellery",
+            "text": "jewellery",
+            "count": 3
+          },
+          {
+            "key": "lips",
+            "text": "lips",
+            "count": 3
+          },
+          {
+            "key": "prams",
+            "text": "prams",
+            "count": 3
+          },
+          {
+            "key": "premium makeup",
+            "text": "premium makeup",
+            "count": 3
+          },
+          {
+            "key": "save 10 euros",
+            "text": "save 10 euros",
+            "count": 3
+          },
+          {
+            "key": "shampoo",
+            "text": "shampoo",
+            "count": 3
+          },
+          {
+            "key": "all luxury bath & body",
+            "text": "all luxury bath & body",
+            "count": 2
+          },
+          {
+            "key": "all male grooming",
+            "text": "all male grooming",
+            "count": 2
+          },
+          {
+            "key": "all perfumes",
+            "text": "all perfumes",
+            "count": 2
+          },
+          {
+            "key": "baby baths & accessories",
+            "text": "baby baths & accessories",
+            "count": 2
+          },
+          {
+            "key": "bubble bath & oil",
+            "text": "bubble bath & oil",
+            "count": 2
+          },
+          {
+            "key": "conditioner",
+            "text": "conditioner",
+            "count": 2
+          },
+          {
+            "key": "gift",
+            "text": "gift",
+            "count": 2
+          },
+          {
+            "key": "hair dye",
+            "text": "hair dye",
+            "count": 2
+          },
+          {
+            "key": "hair treatments and masks",
+            "text": "hair treatments and masks",
+            "count": 2
+          },
+          {
+            "key": "new mum toiletries",
+            "text": "new mum toiletries",
+            "count": 2
+          },
+          {
+            "key": "palettes",
+            "text": "palettes",
+            "count": 2
+          },
+          {
+            "key": "premium beauty gifts",
+            "text": "premium beauty gifts",
+            "count": 2
+          },
+          {
+            "key": "save 10 pounds",
+            "text": "save 10 pounds",
+            "count": 2
+          },
+          {
+            "key": "scented bath & shower",
+            "text": "scented bath & shower",
+            "count": 2
+          },
+          {
+            "key": "shaving brushes",
+            "text": "shaving brushes",
+            "count": 2
+          },
+          {
+            "key": "shower gels & scrubs",
+            "text": "shower gels & scrubs",
+            "count": 2
+          },
+          {
+            "key": "Collect £10 worth of points when you spend £60",
+            "text": "Collect £10 worth of points when you spend £60",
+            "count": 1
+          },
+          {
+            "key": "Collect €10 worth of points when you spend €70",
+            "text": "Collect €10 worth of points when you spend €70",
+            "count": 1
+          },
+          {
+            "key": "Cyber Monday",
+            "text": "Cyber Monday",
+            "count": 1
+          },
+          {
+            "key": "all beauty tools",
+            "text": "all beauty tools",
+            "count": 1
+          },
+          {
+            "key": "baby food & weaning",
+            "text": "baby food & weaning",
+            "count": 1
+          },
+          {
+            "key": "beard & stubble trimmers",
+            "text": "beard & stubble trimmers",
+            "count": 1
+          },
+          {
+            "key": "beauty",
+            "text": "beauty",
+            "count": 1
+          },
+          {
+            "key": "bedding",
+            "text": "bedding",
+            "count": 1
+          },
+          {
+            "key": "bestsellers",
+            "text": "bestsellers",
+            "count": 1
+          },
+          {
+            "key": "body and face trimmers",
+            "text": "body and face trimmers",
+            "count": 1
+          },
+          {
+            "key": "cameras",
+            "text": "cameras",
+            "count": 1
+          },
+          {
+            "key": "cotton wool",
+            "text": "cotton wool",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.body_area",
+        "text": "productAttributes.body_area",
+        "elements": [
+          {
+            "key": "face",
+            "text": "face",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.hair_type",
+        "text": "productAttributes.hair_type",
+        "elements": [
+          {
+            "key": "all hair types",
+            "text": "all hair types",
+            "count": 5
+          },
+          {
+            "key": "thinning",
+            "text": "thinning",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.skin_type",
+        "text": "productAttributes.skin_type",
+        "elements": [
+          {
+            "key": "normal skin",
+            "text": "normal skin",
+            "count": 4
+          },
+          {
+            "key": "sensitive skin",
+            "text": "sensitive skin",
+            "count": 3
+          },
+          {
+            "key": "all skin types",
+            "text": "all skin types",
+            "count": 1
+          },
+          {
+            "key": "dry skin",
+            "text": "dry skin",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.key_features",
+        "text": "productAttributes.key_features",
+        "elements": [
+          {
+            "key": "moisturising",
+            "text": "moisturising",
+            "count": 7
+          },
+          {
+            "key": "hydrating",
+            "text": "hydrating",
+            "count": 4
+          },
+          {
+            "key": "cleansing",
+            "text": "cleansing",
+            "count": 3
+          },
+          {
+            "key": "growth",
+            "text": "growth",
+            "count": 2
+          },
+          {
+            "key": "nourishing",
+            "text": "nourishing",
+            "count": 2
+          },
+          {
+            "key": "softening",
+            "text": "softening",
+            "count": 2
+          },
+          {
+            "key": "soothing",
+            "text": "soothing",
+            "count": 2
+          },
+          {
+            "key": "strengthening",
+            "text": "strengthening",
+            "count": 2
+          },
+          {
+            "key": "anti-ageing",
+            "text": "anti-ageing",
+            "count": 1
+          },
+          {
+            "key": "colouring",
+            "text": "colouring",
+            "count": 1
+          },
+          {
+            "key": "cordless",
+            "text": "cordless",
+            "count": 1
+          },
+          {
+            "key": "dry use",
+            "text": "dry use",
+            "count": 1
+          },
+          {
+            "key": "exfoliating",
+            "text": "exfoliating",
+            "count": 1
+          },
+          {
+            "key": "intensive",
+            "text": "intensive",
+            "count": 1
+          },
+          {
+            "key": "oil based",
+            "text": "oil based",
+            "count": 1
+          },
+          {
+            "key": "organic",
+            "text": "organic",
+            "count": 1
+          },
+          {
+            "key": "whitening",
+            "text": "whitening",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "fullCategoryMap.categories.lvl0",
+        "text": "fullCategoryMap.categories.lvl0",
+        "elements": [
+          {
+            "key": "offers",
+            "text": "offers",
+            "count": 966
+          },
+          {
+            "key": "gift",
+            "text": "gift",
+            "count": 834
+          },
+          {
+            "key": "baby & child",
+            "text": "baby & child",
+            "count": 752
+          },
+          {
+            "key": "beauty & skincare",
+            "text": "beauty & skincare",
+            "count": 76
+          },
+          {
+            "key": "toiletries",
+            "text": "toiletries",
+            "count": 64
+          },
+          {
+            "key": "men's",
+            "text": "men's",
+            "count": 50
+          },
+          {
+            "key": "wellness",
+            "text": "wellness",
+            "count": 39
+          },
+          {
+            "key": "health & pharmacy",
+            "text": "health & pharmacy",
+            "count": 23
+          },
+          {
+            "key": "sun & holiday",
+            "text": "sun & holiday",
+            "count": 21
+          },
+          {
+            "key": "fragrance",
+            "text": "fragrance",
+            "count": 19
+          },
+          {
+            "key": "electrical",
+            "text": "electrical",
+            "count": 14
+          },
+          {
+            "key": "health",
+            "text": "health",
+            "count": 5
+          },
+          {
+            "key": "opticians",
+            "text": "opticians",
+            "count": 2
+          },
+          {
+            "key": "opticians services",
+            "text": "opticians services",
+            "count": 2
+          },
+          {
+            "key": "photo",
+            "text": "photo",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "fullCategoryMap.categories.lvl1",
+        "text": "fullCategoryMap.categories.lvl1",
+        "elements": [
+          {
+            "key": "offers > seasonal events",
+            "text": "offers > seasonal events",
+            "count": 964
+          },
+          {
+            "key": "baby & child > toys",
+            "text": "baby & child > toys",
+            "count": 704
+          },
+          {
+            "key": "gift > all toys",
+            "text": "gift > all toys",
+            "count": 589
+          },
+          {
+            "key": "gift > by recipient",
+            "text": "gift > by recipient",
+            "count": 253
+          },
+          {
+            "key": "gift > toys",
+            "text": "gift > toys",
+            "count": 204
+          },
+          {
+            "key": "gift > gifts for her",
+            "text": "gift > gifts for her",
+            "count": 124
+          },
+          {
+            "key": "baby & child > new in baby & child",
+            "text": "baby & child > new in baby & child",
+            "count": 95
+          },
+          {
+            "key": "beauty & skincare > make-up",
+            "text": "beauty & skincare > make-up",
+            "count": 64
+          },
+          {
+            "key": "gift > candles & home fragrance",
+            "text": "gift > candles & home fragrance",
+            "count": 56
+          },
+          {
+            "key": "baby & child > bathing & changing",
+            "text": "baby & child > bathing & changing",
+            "count": 53
+          },
+          {
+            "key": "gift > gifts for him",
+            "text": "gift > gifts for him",
+            "count": 50
+          },
+          {
+            "key": "men's > men's toiletries",
+            "text": "men's > men's toiletries",
+            "count": 48
+          },
+          {
+            "key": "toiletries > men's toiletries",
+            "text": "toiletries > men's toiletries",
+            "count": 48
+          },
+          {
+            "key": "offers > sale",
+            "text": "offers > sale",
+            "count": 45
+          },
+          {
+            "key": "men's > men's gift sets",
+            "text": "men's > men's gift sets",
+            "count": 41
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing",
+            "text": "baby & child > mini club – baby & kids clothing",
+            "count": 35
+          },
+          {
+            "key": "gift > birthday gifts",
+            "text": "gift > birthday gifts",
+            "count": 32
+          },
+          {
+            "key": "gift > experience days",
+            "text": "gift > experience days",
+            "count": 30
+          },
+          {
+            "key": "baby & child > clearance",
+            "text": "baby & child > clearance",
+            "count": 29
+          },
+          {
+            "key": "offers > clearance",
+            "text": "offers > clearance",
+            "count": 22
+          },
+          {
+            "key": "men's > shaving & grooming",
+            "text": "men's > shaving & grooming",
+            "count": 19
+          },
+          {
+            "key": "fragrance > gift sets",
+            "text": "fragrance > gift sets",
+            "count": 18
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing",
+            "text": "health & pharmacy > lifestyle & wellbeing",
+            "count": 18
+          },
+          {
+            "key": "wellness > all vegan products",
+            "text": "wellness > all vegan products",
+            "count": 18
+          },
+          {
+            "key": "sun & holiday > toiletries",
+            "text": "sun & holiday > toiletries",
+            "count": 17
+          },
+          {
+            "key": "baby & child > nursery & baby safety",
+            "text": "baby & child > nursery & baby safety",
+            "count": 14
+          },
+          {
+            "key": "baby & child > pregnancy & maternity",
+            "text": "baby & child > pregnancy & maternity",
+            "count": 14
+          },
+          {
+            "key": "baby & child > pushchairs & car seats",
+            "text": "baby & child > pushchairs & car seats",
+            "count": 14
+          },
+          {
+            "key": "fragrance > fragrance offers",
+            "text": "fragrance > fragrance offers",
+            "count": 14
+          },
+          {
+            "key": "offers > fragrance offers",
+            "text": "offers > fragrance offers",
+            "count": 14
+          },
+          {
+            "key": "fragrance > perfume",
+            "text": "fragrance > perfume",
+            "count": 13
+          },
+          {
+            "key": "toiletries > bathroom essentials",
+            "text": "toiletries > bathroom essentials",
+            "count": 12
+          },
+          {
+            "key": "offers > bundles",
+            "text": "offers > bundles",
+            "count": 11
+          },
+          {
+            "key": "electrical > electrical health & diagnostics",
+            "text": "electrical > electrical health & diagnostics",
+            "count": 8
+          },
+          {
+            "key": "health & pharmacy > electrical health & diagnostics",
+            "text": "health & pharmacy > electrical health & diagnostics",
+            "count": 8
+          },
+          {
+            "key": "men's > skincare & body",
+            "text": "men's > skincare & body",
+            "count": 8
+          },
+          {
+            "key": "offers > value packs & bundles",
+            "text": "offers > value packs & bundles",
+            "count": 8
+          },
+          {
+            "key": "fragrance > aftershave",
+            "text": "fragrance > aftershave",
+            "count": 7
+          },
+          {
+            "key": "wellness > activity trackers",
+            "text": "wellness > activity trackers",
+            "count": 7
+          },
+          {
+            "key": "gift > by occasion",
+            "text": "gift > by occasion",
+            "count": 6
+          },
+          {
+            "key": "men's > aftershave",
+            "text": "men's > aftershave",
+            "count": 6
+          },
+          {
+            "key": "wellness > sports nutrition",
+            "text": "wellness > sports nutrition",
+            "count": 6
+          },
+          {
+            "key": "beauty & skincare > hair",
+            "text": "beauty & skincare > hair",
+            "count": 5
+          },
+          {
+            "key": "beauty & skincare > premium beauty & skincare",
+            "text": "beauty & skincare > premium beauty & skincare",
+            "count": 5
+          },
+          {
+            "key": "health & pharmacy > vitamins & supplements",
+            "text": "health & pharmacy > vitamins & supplements",
+            "count": 5
+          },
+          {
+            "key": "health > vitamins & supplements",
+            "text": "health > vitamins & supplements",
+            "count": 5
+          },
+          {
+            "key": "men's > men's value packs & bundles",
+            "text": "men's > men's value packs & bundles",
+            "count": 5
+          },
+          {
+            "key": "toiletries > hair",
+            "text": "toiletries > hair",
+            "count": 5
+          },
+          {
+            "key": "wellness > vitamins & supplements",
+            "text": "wellness > vitamins & supplements",
+            "count": 5
+          },
+          {
+            "key": "baby & child > nursery furniture",
+            "text": "baby & child > nursery furniture",
+            "count": 4
+          },
+          {
+            "key": "beauty & skincare > accessories",
+            "text": "beauty & skincare > accessories",
+            "count": 3
+          },
+          {
+            "key": "electrical > headphones, cameras & accessories",
+            "text": "electrical > headphones, cameras & accessories",
+            "count": 3
+          },
+          {
+            "key": "sun & holiday > holiday value packs & bundles",
+            "text": "sun & holiday > holiday value packs & bundles",
+            "count": 3
+          },
+          {
+            "key": "wellness > recipe books & accessories",
+            "text": "wellness > recipe books & accessories",
+            "count": 3
+          },
+          {
+            "key": "baby & child > feeding",
+            "text": "baby & child > feeding",
+            "count": 2
+          },
+          {
+            "key": "beauty & skincare > facial skincare",
+            "text": "beauty & skincare > facial skincare",
+            "count": 2
+          },
+          {
+            "key": "beauty & skincare > skincare",
+            "text": "beauty & skincare > skincare",
+            "count": 2
+          },
+          {
+            "key": "electrical > male grooming tools",
+            "text": "electrical > male grooming tools",
+            "count": 2
+          },
+          {
+            "key": "electrical > new in electrical",
+            "text": "electrical > new in electrical",
+            "count": 2
+          },
+          {
+            "key": "gift > Father's Day",
+            "text": "gift > Father's Day",
+            "count": 2
+          },
+          {
+            "key": "men's > male grooming tools",
+            "text": "men's > male grooming tools",
+            "count": 2
+          },
+          {
+            "key": "sun & holiday > travel accessories",
+            "text": "sun & holiday > travel accessories",
+            "count": 2
+          },
+          {
+            "key": "sun & holiday > your holiday starts here",
+            "text": "sun & holiday > your holiday starts here",
+            "count": 2
+          },
+          {
+            "key": "toiletries > deodorants & antiperspirants",
+            "text": "toiletries > deodorants & antiperspirants",
+            "count": 2
+          },
+          {
+            "key": "toiletries > luxury bath & body",
+            "text": "toiletries > luxury bath & body",
+            "count": 2
+          },
+          {
+            "key": "toiletries > washing & bathing",
+            "text": "toiletries > washing & bathing",
+            "count": 2
+          },
+          {
+            "key": "baby & child > baby event",
+            "text": "baby & child > baby event",
+            "count": 1
+          },
+          {
+            "key": "electrical > audio, vision & technology",
+            "text": "electrical > audio, vision & technology",
+            "count": 1
+          },
+          {
+            "key": "electrical > beauty tools",
+            "text": "electrical > beauty tools",
+            "count": 1
+          },
+          {
+            "key": "electrical > female hair removal tools",
+            "text": "electrical > female hair removal tools",
+            "count": 1
+          },
+          {
+            "key": "fragrance > Fragrance exclusives",
+            "text": "fragrance > Fragrance exclusives",
+            "count": 1
+          },
+          {
+            "key": "fragrance > new in fragrance",
+            "text": "fragrance > new in fragrance",
+            "count": 1
+          },
+          {
+            "key": "health & pharmacy > medicines & treatments",
+            "text": "health & pharmacy > medicines & treatments",
+            "count": 1
+          },
+          {
+            "key": "health & pharmacy > treatments",
+            "text": "health & pharmacy > treatments",
+            "count": 1
+          },
+          {
+            "key": "health > treatments",
+            "text": "health > treatments",
+            "count": 1
+          },
+          {
+            "key": "opticians > glasses",
+            "text": "opticians > glasses",
+            "count": 1
+          },
+          {
+            "key": "opticians > prescription sunglasses",
+            "text": "opticians > prescription sunglasses",
+            "count": 1
+          },
+          {
+            "key": "opticians services > glasses",
+            "text": "opticians services > glasses",
+            "count": 1
+          },
+          {
+            "key": "opticians services > prescription sunglasses",
+            "text": "opticians services > prescription sunglasses",
+            "count": 1
+          },
+          {
+            "key": "photo > cameras",
+            "text": "photo > cameras",
+            "count": 1
+          },
+          {
+            "key": "sun & holiday > travel essentials",
+            "text": "sun & holiday > travel essentials",
+            "count": 1
+          },
+          {
+            "key": "sun & holiday > travel toiletries",
+            "text": "sun & holiday > travel toiletries",
+            "count": 1
+          },
+          {
+            "key": "toiletries > dental",
+            "text": "toiletries > dental",
+            "count": 1
+          },
+          {
+            "key": "toiletries > female hair removal",
+            "text": "toiletries > female hair removal",
+            "count": 1
+          },
+          {
+            "key": "toiletries > travel toiletries",
+            "text": "toiletries > travel toiletries",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "fullCategoryMap.categories.lvl2",
+        "text": "fullCategoryMap.categories.lvl2",
+        "elements": [
+          {
+            "key": "offers > seasonal events > christmas",
+            "text": "offers > seasonal events > christmas",
+            "count": 961
+          },
+          {
+            "key": "baby & child > toys > all toys",
+            "text": "baby & child > toys > all toys",
+            "count": 589
+          },
+          {
+            "key": "baby & child > toys > kids",
+            "text": "baby & child > toys > kids",
+            "count": 474
+          },
+          {
+            "key": "gift > by recipient > kids",
+            "text": "gift > by recipient > kids",
+            "count": 204
+          },
+          {
+            "key": "gift > toys > kids",
+            "text": "gift > toys > kids",
+            "count": 204
+          },
+          {
+            "key": "baby & child > toys > baby & preschool toys",
+            "text": "baby & child > toys > baby & preschool toys",
+            "count": 200
+          },
+          {
+            "key": "baby & child > toys > action figures, vehicles & playsets",
+            "text": "baby & child > toys > action figures, vehicles & playsets",
+            "count": 140
+          },
+          {
+            "key": "gift > toys > baby & preschool toys",
+            "text": "gift > toys > baby & preschool toys",
+            "count": 107
+          },
+          {
+            "key": "baby & child > toys > electronic & learning toys",
+            "text": "baby & child > toys > electronic & learning toys",
+            "count": 101
+          },
+          {
+            "key": "baby & child > toys > construction toys",
+            "text": "baby & child > toys > construction toys",
+            "count": 91
+          },
+          {
+            "key": "offers > seasonal events > mother's day",
+            "text": "offers > seasonal events > mother's day",
+            "count": 77
+          },
+          {
+            "key": "baby & child > toys > dressing up & role play",
+            "text": "baby & child > toys > dressing up & role play",
+            "count": 56
+          },
+          {
+            "key": "gift > by recipient > her",
+            "text": "gift > by recipient > her",
+            "count": 48
+          },
+          {
+            "key": "gift > toys > electronic & learning toys",
+            "text": "gift > toys > electronic & learning toys",
+            "count": 48
+          },
+          {
+            "key": "baby & child > bathing & changing > bath toys",
+            "text": "baby & child > bathing & changing > bath toys",
+            "count": 44
+          },
+          {
+            "key": "baby & child > toys > bath toys",
+            "text": "baby & child > toys > bath toys",
+            "count": 44
+          },
+          {
+            "key": "gift > gifts for him > men's gift sets",
+            "text": "gift > gifts for him > men's gift sets",
+            "count": 41
+          },
+          {
+            "key": "men's > men's toiletries > men's gift sets",
+            "text": "men's > men's toiletries > men's gift sets",
+            "count": 41
+          },
+          {
+            "key": "toiletries > men's toiletries > men's gift sets",
+            "text": "toiletries > men's toiletries > men's gift sets",
+            "count": 41
+          },
+          {
+            "key": "baby & child > toys > arts & crafts",
+            "text": "baby & child > toys > arts & crafts",
+            "count": 38
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing > baby clothes",
+            "text": "baby & child > mini club – baby & kids clothing > baby clothes",
+            "count": 35
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing > christmas clothes for kids",
+            "text": "baby & child > mini club – baby & kids clothing > christmas clothes for kids",
+            "count": 35
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing > clearance",
+            "text": "baby & child > mini club – baby & kids clothing > clearance",
+            "count": 35
+          },
+          {
+            "key": "baby & child > toys > games & puzzles",
+            "text": "baby & child > toys > games & puzzles",
+            "count": 34
+          },
+          {
+            "key": "gift > toys > dressing up & role play",
+            "text": "gift > toys > dressing up & role play",
+            "count": 31
+          },
+          {
+            "key": "beauty & skincare > make-up > eyes",
+            "text": "beauty & skincare > make-up > eyes",
+            "count": 28
+          },
+          {
+            "key": "gift > toys > action figures, vehicles & playsets",
+            "text": "gift > toys > action figures, vehicles & playsets",
+            "count": 26
+          },
+          {
+            "key": "baby & child > toys > dolls & doll houses",
+            "text": "baby & child > toys > dolls & doll houses",
+            "count": 24
+          },
+          {
+            "key": "beauty & skincare > make-up > glitter and accessories",
+            "text": "beauty & skincare > make-up > glitter and accessories",
+            "count": 24
+          },
+          {
+            "key": "offers > clearance > all clearance",
+            "text": "offers > clearance > all clearance",
+            "count": 21
+          },
+          {
+            "key": "offers > clearance > baby",
+            "text": "offers > clearance > baby",
+            "count": 21
+          },
+          {
+            "key": "baby & child > toys > board games & puzzles",
+            "text": "baby & child > toys > board games & puzzles",
+            "count": 20
+          },
+          {
+            "key": "men's > men's toiletries > shaving & grooming",
+            "text": "men's > men's toiletries > shaving & grooming",
+            "count": 19
+          },
+          {
+            "key": "toiletries > men's toiletries > shaving & grooming",
+            "text": "toiletries > men's toiletries > shaving & grooming",
+            "count": 19
+          },
+          {
+            "key": "beauty & skincare > make-up > face",
+            "text": "beauty & skincare > make-up > face",
+            "count": 18
+          },
+          {
+            "key": "gift > toys > bath toys",
+            "text": "gift > toys > bath toys",
+            "count": 16
+          },
+          {
+            "key": "sun & holiday > toiletries > hair removal",
+            "text": "sun & holiday > toiletries > hair removal",
+            "count": 16
+          },
+          {
+            "key": "offers > seasonal events > back to school",
+            "text": "offers > seasonal events > back to school",
+            "count": 15
+          },
+          {
+            "key": "baby & child > pregnancy & maternity > baby shower gifting",
+            "text": "baby & child > pregnancy & maternity > baby shower gifting",
+            "count": 14
+          },
+          {
+            "key": "beauty & skincare > make-up > nails",
+            "text": "beauty & skincare > make-up > nails",
+            "count": 14
+          },
+          {
+            "key": "gift > toys > board games & puzzles",
+            "text": "gift > toys > board games & puzzles",
+            "count": 13
+          },
+          {
+            "key": "toiletries > men's toiletries > washing & bathing",
+            "text": "toiletries > men's toiletries > washing & bathing",
+            "count": 13
+          },
+          {
+            "key": "toiletries > men's toiletries > skincare & body",
+            "text": "toiletries > men's toiletries > skincare & body",
+            "count": 12
+          },
+          {
+            "key": "baby & child > toys > outdoor toys",
+            "text": "baby & child > toys > outdoor toys",
+            "count": 11
+          },
+          {
+            "key": "fragrance > gift sets > perfume gift sets",
+            "text": "fragrance > gift sets > perfume gift sets",
+            "count": 11
+          },
+          {
+            "key": "fragrance > perfume > perfume gift sets",
+            "text": "fragrance > perfume > perfume gift sets",
+            "count": 11
+          },
+          {
+            "key": "gift > toys > construction toys",
+            "text": "gift > toys > construction toys",
+            "count": 11
+          },
+          {
+            "key": "men's > men's toiletries > washing & bathing",
+            "text": "men's > men's toiletries > washing & bathing",
+            "count": 11
+          },
+          {
+            "key": "gift > toys > arts & crafts",
+            "text": "gift > toys > arts & crafts",
+            "count": 9
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > diet & weight management",
+            "text": "health & pharmacy > lifestyle & wellbeing > diet & weight management",
+            "count": 9
+          },
+          {
+            "key": "baby & child > pushchairs & car seats > travel systems",
+            "text": "baby & child > pushchairs & car seats > travel systems",
+            "count": 8
+          },
+          {
+            "key": "fragrance > fragrance offers > clearance",
+            "text": "fragrance > fragrance offers > clearance",
+            "count": 8
+          },
+          {
+            "key": "men's > men's toiletries > skincare & body",
+            "text": "men's > men's toiletries > skincare & body",
+            "count": 8
+          },
+          {
+            "key": "offers > fragrance offers > clearance",
+            "text": "offers > fragrance offers > clearance",
+            "count": 8
+          },
+          {
+            "key": "electrical > electrical health & diagnostics > activity trackers",
+            "text": "electrical > electrical health & diagnostics > activity trackers",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > electrical health & diagnostics > activity trackers",
+            "text": "health & pharmacy > electrical health & diagnostics > activity trackers",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > electrical health & diagnostics",
+            "text": "health & pharmacy > lifestyle & wellbeing > electrical health & diagnostics",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > fitness equipment & activity trackers",
+            "text": "health & pharmacy > lifestyle & wellbeing > fitness equipment & activity trackers",
+            "count": 7
+          },
+          {
+            "key": "toiletries > men's toiletries > aftershave",
+            "text": "toiletries > men's toiletries > aftershave",
+            "count": 7
+          },
+          {
+            "key": "baby & child > nursery & baby safety > bouncers, swings & play gyms",
+            "text": "baby & child > nursery & baby safety > bouncers, swings & play gyms",
+            "count": 6
+          },
+          {
+            "key": "baby & child > nursery & baby safety > mobiles & night lights",
+            "text": "baby & child > nursery & baby safety > mobiles & night lights",
+            "count": 6
+          },
+          {
+            "key": "baby & child > pushchairs & car seats > travel accessories",
+            "text": "baby & child > pushchairs & car seats > travel accessories",
+            "count": 6
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > sports nutrition",
+            "text": "health & pharmacy > lifestyle & wellbeing > sports nutrition",
+            "count": 6
+          },
+          {
+            "key": "men's > men's toiletries > aftershave",
+            "text": "men's > men's toiletries > aftershave",
+            "count": 6
+          },
+          {
+            "key": "offers > value packs & bundles > all value packs & bundles",
+            "text": "offers > value packs & bundles > all value packs & bundles",
+            "count": 6
+          },
+          {
+            "key": "toiletries > men's toiletries > deodorants & antiperspirants",
+            "text": "toiletries > men's toiletries > deodorants & antiperspirants",
+            "count": 6
+          },
+          {
+            "key": "wellness > sports nutrition > protein powder",
+            "text": "wellness > sports nutrition > protein powder",
+            "count": 6
+          },
+          {
+            "key": "gift > by occasion > birthday",
+            "text": "gift > by occasion > birthday",
+            "count": 5
+          },
+          {
+            "key": "gift > by occasion > thank you",
+            "text": "gift > by occasion > thank you",
+            "count": 5
+          },
+          {
+            "key": "health & pharmacy > vitamins & supplements > shop by ingredient",
+            "text": "health & pharmacy > vitamins & supplements > shop by ingredient",
+            "count": 5
+          },
+          {
+            "key": "health > vitamins & supplements > shop by Ingredient",
+            "text": "health > vitamins & supplements > shop by Ingredient",
+            "count": 5
+          },
+          {
+            "key": "men's > men's toiletries > men's value packs & bundles",
+            "text": "men's > men's toiletries > men's value packs & bundles",
+            "count": 5
+          },
+          {
+            "key": "men's > shaving & grooming > Beard care",
+            "text": "men's > shaving & grooming > Beard care",
+            "count": 5
+          },
+          {
+            "key": "offers > seasonal events > Father's Day",
+            "text": "offers > seasonal events > Father's Day",
+            "count": 5
+          },
+          {
+            "key": "offers > value packs & bundles > men's value packs & bundles",
+            "text": "offers > value packs & bundles > men's value packs & bundles",
+            "count": 5
+          },
+          {
+            "key": "toiletries > men's toiletries > men's value packs & bundles",
+            "text": "toiletries > men's toiletries > men's value packs & bundles",
+            "count": 5
+          },
+          {
+            "key": "wellness > vitamins & supplements > shop by ingredient",
+            "text": "wellness > vitamins & supplements > shop by ingredient",
+            "count": 5
+          },
+          {
+            "key": "baby & child > bathing & changing > baby & child toiletries",
+            "text": "baby & child > bathing & changing > baby & child toiletries",
+            "count": 4
+          },
+          {
+            "key": "baby & child > bathing & changing > changing bag essentials",
+            "text": "baby & child > bathing & changing > changing bag essentials",
+            "count": 4
+          },
+          {
+            "key": "fragrance > aftershave > aftershave gift sets",
+            "text": "fragrance > aftershave > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "fragrance > gift sets > aftershave gift sets",
+            "text": "fragrance > gift sets > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "fragrance > gift sets > gift wrapped sets",
+            "text": "fragrance > gift sets > gift wrapped sets",
+            "count": 4
+          },
+          {
+            "key": "gift > toys > dolls & doll houses",
+            "text": "gift > toys > dolls & doll houses",
+            "count": 4
+          },
+          {
+            "key": "health & pharmacy > vitamins & supplements > joint health",
+            "text": "health & pharmacy > vitamins & supplements > joint health",
+            "count": 4
+          },
+          {
+            "key": "health > vitamins & supplements > joint health",
+            "text": "health > vitamins & supplements > joint health",
+            "count": 4
+          },
+          {
+            "key": "men's > aftershave > aftershave gift sets",
+            "text": "men's > aftershave > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "offers > sale > fragrance",
+            "text": "offers > sale > fragrance",
+            "count": 4
+          },
+          {
+            "key": "toiletries > bathroom essentials > baby & child toiletries",
+            "text": "toiletries > bathroom essentials > baby & child toiletries",
+            "count": 4
+          },
+          {
+            "key": "toiletries > bathroom essentials > bath sets",
+            "text": "toiletries > bathroom essentials > bath sets",
+            "count": 4
+          },
+          {
+            "key": "toiletries > bathroom essentials > natural toiletries",
+            "text": "toiletries > bathroom essentials > natural toiletries",
+            "count": 4
+          },
+          {
+            "key": "wellness > vitamins & supplements > joint health",
+            "text": "wellness > vitamins & supplements > joint health",
+            "count": 4
+          },
+          {
+            "key": "baby & child > nursery furniture > mobiles & night lights",
+            "text": "baby & child > nursery furniture > mobiles & night lights",
+            "count": 3
+          },
+          {
+            "key": "baby & child > pushchairs & car seats > prams",
+            "text": "baby & child > pushchairs & car seats > prams",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > accessories > jewellery",
+            "text": "beauty & skincare > accessories > jewellery",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > hair > all hair",
+            "text": "beauty & skincare > hair > all hair",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > hair > shampoo",
+            "text": "beauty & skincare > hair > shampoo",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > make-up > lips",
+            "text": "beauty & skincare > make-up > lips",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > premium beauty & skincare > Luxury Beauty Makeup",
+            "text": "beauty & skincare > premium beauty & skincare > Luxury Beauty Makeup",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > premium beauty & skincare > premium makeup",
+            "text": "beauty & skincare > premium beauty & skincare > premium makeup",
+            "count": 3
+          },
+          {
+            "key": "fragrance > aftershave > all aftershave",
+            "text": "fragrance > aftershave > all aftershave",
+            "count": 3
+          }
+        ]
+      },
+      {
+        "key": "fullCategoryMap.categories.lvl3",
+        "text": "fullCategoryMap.categories.lvl3",
+        "elements": [
+          {
+            "key": "offers > seasonal events > christmas > christmas gifts for kids",
+            "text": "offers > seasonal events > christmas > christmas gifts for kids",
+            "count": 736
+          },
+          {
+            "key": "baby & child > toys > kids > baby & preschool toys",
+            "text": "baby & child > toys > kids > baby & preschool toys",
+            "count": 176
+          },
+          {
+            "key": "offers > seasonal events > christmas > gifts by type",
+            "text": "offers > seasonal events > christmas > gifts by type",
+            "count": 160
+          },
+          {
+            "key": "gift > by recipient > kids > baby & preschool toys",
+            "text": "gift > by recipient > kids > baby & preschool toys",
+            "count": 107
+          },
+          {
+            "key": "gift > toys > kids > baby & preschool toys",
+            "text": "gift > toys > kids > baby & preschool toys",
+            "count": 107
+          },
+          {
+            "key": "offers > seasonal events > christmas > christmas gifts for him",
+            "text": "offers > seasonal events > christmas > christmas gifts for him",
+            "count": 86
+          },
+          {
+            "key": "baby & child > toys > kids > electronic & learning toys",
+            "text": "baby & child > toys > kids > electronic & learning toys",
+            "count": 70
+          },
+          {
+            "key": "offers > seasonal events > mother's day > candles & home fragrance",
+            "text": "offers > seasonal events > mother's day > candles & home fragrance",
+            "count": 56
+          },
+          {
+            "key": "baby & child > toys > kids > action figures, vehicles & playsets",
+            "text": "baby & child > toys > kids > action figures, vehicles & playsets",
+            "count": 55
+          },
+          {
+            "key": "baby & child > toys > kids > construction toys",
+            "text": "baby & child > toys > kids > construction toys",
+            "count": 48
+          },
+          {
+            "key": "gift > by recipient > kids > electronic & learning toys",
+            "text": "gift > by recipient > kids > electronic & learning toys",
+            "count": 48
+          },
+          {
+            "key": "gift > toys > kids > electronic & learning toys",
+            "text": "gift > toys > kids > electronic & learning toys",
+            "count": 48
+          },
+          {
+            "key": "gift > by recipient > her > candles & home fragrance",
+            "text": "gift > by recipient > her > candles & home fragrance",
+            "count": 47
+          },
+          {
+            "key": "baby & child > toys > kids > dressing up & role play",
+            "text": "baby & child > toys > kids > dressing up & role play",
+            "count": 46
+          },
+          {
+            "key": "offers > seasonal events > Christmas > gift by type",
+            "text": "offers > seasonal events > Christmas > gift by type",
+            "count": 42
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing > baby clothes > baby gifting",
+            "text": "baby & child > mini club – baby & kids clothing > baby clothes > baby gifting",
+            "count": 35
+          },
+          {
+            "key": "baby & child > mini club – baby & kids clothing > baby clothes > shop all",
+            "text": "baby & child > mini club – baby & kids clothing > baby clothes > shop all",
+            "count": 35
+          },
+          {
+            "key": "baby & child > toys > kids > bath toys",
+            "text": "baby & child > toys > kids > bath toys",
+            "count": 34
+          },
+          {
+            "key": "offers > seasonal events > christmas > christmas gifts for her",
+            "text": "offers > seasonal events > christmas > christmas gifts for her",
+            "count": 34
+          },
+          {
+            "key": "gift > by recipient > kids > dressing up & role play",
+            "text": "gift > by recipient > kids > dressing up & role play",
+            "count": 31
+          },
+          {
+            "key": "gift > toys > kids > dressing up & role play",
+            "text": "gift > toys > kids > dressing up & role play",
+            "count": 31
+          },
+          {
+            "key": "beauty & skincare > make-up > eyes > all eyes",
+            "text": "beauty & skincare > make-up > eyes > all eyes",
+            "count": 28
+          },
+          {
+            "key": "beauty & skincare > make-up > eyes > eye shadow",
+            "text": "beauty & skincare > make-up > eyes > eye shadow",
+            "count": 28
+          },
+          {
+            "key": "gift > by recipient > kids > action figures, vehicles & playsets",
+            "text": "gift > by recipient > kids > action figures, vehicles & playsets",
+            "count": 26
+          },
+          {
+            "key": "gift > toys > kids > action figures, vehicles & playsets",
+            "text": "gift > toys > kids > action figures, vehicles & playsets",
+            "count": 26
+          },
+          {
+            "key": "baby & child > toys > kids > board games & puzzles",
+            "text": "baby & child > toys > kids > board games & puzzles",
+            "count": 20
+          },
+          {
+            "key": "beauty & skincare > make-up > face > highlighter & luminiser",
+            "text": "beauty & skincare > make-up > face > highlighter & luminiser",
+            "count": 18
+          },
+          {
+            "key": "gift > by recipient > kids > bath toys",
+            "text": "gift > by recipient > kids > bath toys",
+            "count": 16
+          },
+          {
+            "key": "gift > toys > kids > bath toys",
+            "text": "gift > toys > kids > bath toys",
+            "count": 16
+          },
+          {
+            "key": "offers > seasonal events > mother's day > shop all mother's day",
+            "text": "offers > seasonal events > mother's day > shop all mother's day",
+            "count": 16
+          },
+          {
+            "key": "beauty & skincare > make-up > face > all face",
+            "text": "beauty & skincare > make-up > face > all face",
+            "count": 15
+          },
+          {
+            "key": "baby & child > toys > kids > arts & crafts",
+            "text": "baby & child > toys > kids > arts & crafts",
+            "count": 14
+          },
+          {
+            "key": "offers > seasonal events > back to school > back to nursery",
+            "text": "offers > seasonal events > back to school > back to nursery",
+            "count": 14
+          },
+          {
+            "key": "gift > by recipient > kids > board games & puzzles",
+            "text": "gift > by recipient > kids > board games & puzzles",
+            "count": 13
+          },
+          {
+            "key": "gift > toys > kids > board games & puzzles",
+            "text": "gift > toys > kids > board games & puzzles",
+            "count": 13
+          },
+          {
+            "key": "sun & holiday > toiletries > hair removal > shaving & grooming",
+            "text": "sun & holiday > toiletries > hair removal > shaving & grooming",
+            "count": 13
+          },
+          {
+            "key": "gift > by recipient > kids > construction toys",
+            "text": "gift > by recipient > kids > construction toys",
+            "count": 11
+          },
+          {
+            "key": "gift > toys > kids > construction toys",
+            "text": "gift > toys > kids > construction toys",
+            "count": 11
+          },
+          {
+            "key": "offers > seasonal events > christmas > perfume gift sets",
+            "text": "offers > seasonal events > christmas > perfume gift sets",
+            "count": 11
+          },
+          {
+            "key": "beauty & skincare > make-up > nails > gel nails",
+            "text": "beauty & skincare > make-up > nails > gel nails",
+            "count": 10
+          },
+          {
+            "key": "gift > by recipient > kids > arts & crafts",
+            "text": "gift > by recipient > kids > arts & crafts",
+            "count": 9
+          },
+          {
+            "key": "gift > toys > kids > arts & crafts",
+            "text": "gift > toys > kids > arts & crafts",
+            "count": 9
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > diet & weight management > slimming aids & meal replacements",
+            "text": "health & pharmacy > lifestyle & wellbeing > diet & weight management > slimming aids & meal replacements",
+            "count": 9
+          },
+          {
+            "key": "baby & child > toys > kids > dolls & doll houses",
+            "text": "baby & child > toys > kids > dolls & doll houses",
+            "count": 7
+          },
+          {
+            "key": "baby & child > toys > kids > outdoor toys",
+            "text": "baby & child > toys > kids > outdoor toys",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > electrical health & diagnostics > activity trackers",
+            "text": "health & pharmacy > lifestyle & wellbeing > electrical health & diagnostics > activity trackers",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > fitness equipment & activity trackers > activity trackers",
+            "text": "health & pharmacy > lifestyle & wellbeing > fitness equipment & activity trackers > activity trackers",
+            "count": 7
+          },
+          {
+            "key": "offers > seasonal events > Mother's Day > all gifts for her",
+            "text": "offers > seasonal events > Mother's Day > all gifts for her",
+            "count": 7
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > sports nutrition > protein powder",
+            "text": "health & pharmacy > lifestyle & wellbeing > sports nutrition > protein powder",
+            "count": 6
+          },
+          {
+            "key": "gift > by recipient > her > all gifts for her",
+            "text": "gift > by recipient > her > all gifts for her",
+            "count": 5
+          },
+          {
+            "key": "men's > men's toiletries > shaving & grooming > beard care",
+            "text": "men's > men's toiletries > shaving & grooming > beard care",
+            "count": 5
+          },
+          {
+            "key": "toiletries > men's toiletries > shaving & grooming > Beard care",
+            "text": "toiletries > men's toiletries > shaving & grooming > Beard care",
+            "count": 5
+          },
+          {
+            "key": "beauty & skincare > make-up > eyes > all eye",
+            "text": "beauty & skincare > make-up > eyes > all eye",
+            "count": 4
+          },
+          {
+            "key": "beauty & skincare > make-up > nails > nail polish",
+            "text": "beauty & skincare > make-up > nails > nail polish",
+            "count": 4
+          },
+          {
+            "key": "fragrance > gift sets > gift wrapped sets > the scent of Christmas",
+            "text": "fragrance > gift sets > gift wrapped sets > the scent of Christmas",
+            "count": 4
+          },
+          {
+            "key": "gift > by recipient > kids > dolls & doll houses",
+            "text": "gift > by recipient > kids > dolls & doll houses",
+            "count": 4
+          },
+          {
+            "key": "gift > toys > kids > dolls & doll houses",
+            "text": "gift > toys > kids > dolls & doll houses",
+            "count": 4
+          },
+          {
+            "key": "health & pharmacy > vitamins & supplements > shop by ingredient > chrondrotin",
+            "text": "health & pharmacy > vitamins & supplements > shop by ingredient > chrondrotin",
+            "count": 4
+          },
+          {
+            "key": "health > vitamins & supplements > shop by Ingredient > chrondrotin",
+            "text": "health > vitamins & supplements > shop by Ingredient > chrondrotin",
+            "count": 4
+          },
+          {
+            "key": "men's > men's toiletries > aftershave > aftershave gift sets",
+            "text": "men's > men's toiletries > aftershave > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "offers > seasonal events > christmas > aftershave gift sets",
+            "text": "offers > seasonal events > christmas > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "toiletries > men's toiletries > aftershave > aftershave gift sets",
+            "text": "toiletries > men's toiletries > aftershave > aftershave gift sets",
+            "count": 4
+          },
+          {
+            "key": "toiletries > men's toiletries > skincare & body > face",
+            "text": "toiletries > men's toiletries > skincare & body > face",
+            "count": 4
+          },
+          {
+            "key": "wellness > vitamins & supplements > shop by ingredient > chrondrotin",
+            "text": "wellness > vitamins & supplements > shop by ingredient > chrondrotin",
+            "count": 4
+          },
+          {
+            "key": "beauty & skincare > make-up > lips > all lip",
+            "text": "beauty & skincare > make-up > lips > all lip",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > make-up > lips > all lips",
+            "text": "beauty & skincare > make-up > lips > all lips",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > make-up > lips > lipsticks",
+            "text": "beauty & skincare > make-up > lips > lipsticks",
+            "count": 3
+          },
+          {
+            "key": "health & pharmacy > vitamins & supplements > shop by ingredient > glucosamine",
+            "text": "health & pharmacy > vitamins & supplements > shop by ingredient > glucosamine",
+            "count": 3
+          },
+          {
+            "key": "health > vitamins & supplements > shop by Ingredient > glucosamine",
+            "text": "health > vitamins & supplements > shop by Ingredient > glucosamine",
+            "count": 3
+          },
+          {
+            "key": "men's > men's toiletries > aftershave > all aftershave",
+            "text": "men's > men's toiletries > aftershave > all aftershave",
+            "count": 3
+          },
+          {
+            "key": "offers > seasonal events > Valentine's Day > for her",
+            "text": "offers > seasonal events > Valentine's Day > for her",
+            "count": 3
+          },
+          {
+            "key": "offers > seasonal events > father's day > half price",
+            "text": "offers > seasonal events > father's day > half price",
+            "count": 3
+          },
+          {
+            "key": "toiletries > men's toiletries > aftershave > all aftershave",
+            "text": "toiletries > men's toiletries > aftershave > all aftershave",
+            "count": 3
+          },
+          {
+            "key": "wellness > vitamins & supplements > shop by ingredient > glucosamine",
+            "text": "wellness > vitamins & supplements > shop by ingredient > glucosamine",
+            "count": 3
+          },
+          {
+            "key": "beauty & skincare > hair > hair treatments and masks > hair serums",
+            "text": "beauty & skincare > hair > hair treatments and masks > hair serums",
+            "count": 2
+          },
+          {
+            "key": "beauty & skincare > make-up > eyes > eye palettes",
+            "text": "beauty & skincare > make-up > eyes > eye palettes",
+            "count": 2
+          },
+          {
+            "key": "beauty & skincare > make-up > palettes > eye palettes",
+            "text": "beauty & skincare > make-up > palettes > eye palettes",
+            "count": 2
+          },
+          {
+            "key": "men's > men's toiletries > shaving & grooming > shaving brushes",
+            "text": "men's > men's toiletries > shaving & grooming > shaving brushes",
+            "count": 2
+          },
+          {
+            "key": "offers > seasonal events > mother's day > all perfumes",
+            "text": "offers > seasonal events > mother's day > all perfumes",
+            "count": 2
+          },
+          {
+            "key": "offers > seasonal events > mother's day > premium beauty gifts",
+            "text": "offers > seasonal events > mother's day > premium beauty gifts",
+            "count": 2
+          },
+          {
+            "key": "sun & holiday > toiletries > hair removal > male grooming tools",
+            "text": "sun & holiday > toiletries > hair removal > male grooming tools",
+            "count": 2
+          },
+          {
+            "key": "toiletries > hair > hair treatments and masks > hair serums",
+            "text": "toiletries > hair > hair treatments and masks > hair serums",
+            "count": 2
+          },
+          {
+            "key": "toiletries > men's toiletries > shaving & grooming > shaving brushes",
+            "text": "toiletries > men's toiletries > shaving & grooming > shaving brushes",
+            "count": 2
+          },
+          {
+            "key": "baby & child > toys > outdoor toys > sand & water toys",
+            "text": "baby & child > toys > outdoor toys > sand & water toys",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > hair > hair dye > hair toners",
+            "text": "beauty & skincare > hair > hair dye > hair toners",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > hair > hair dye > permanent",
+            "text": "beauty & skincare > hair > hair dye > permanent",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > hair > hair styling > hair wax",
+            "text": "beauty & skincare > hair > hair styling > hair wax",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > skincare > expert skincare & treatments > anti-redness",
+            "text": "beauty & skincare > skincare > expert skincare & treatments > anti-redness",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > skincare > expert skincare > anti-redness",
+            "text": "beauty & skincare > skincare > expert skincare > anti-redness",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > skincare > facial skincare > moisturiser",
+            "text": "beauty & skincare > skincare > facial skincare > moisturiser",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > skincare > female hair removal > body and face trimmers",
+            "text": "beauty & skincare > skincare > female hair removal > body and face trimmers",
+            "count": 1
+          },
+          {
+            "key": "beauty & skincare > skincare > female hair removal > epilators",
+            "text": "beauty & skincare > skincare > female hair removal > epilators",
+            "count": 1
+          },
+          {
+            "key": "electrical > audio, vision & technology > cameras > kids cameras",
+            "text": "electrical > audio, vision & technology > cameras > kids cameras",
+            "count": 1
+          },
+          {
+            "key": "electrical > headphones, cameras & accessories > cameras > digital cameras",
+            "text": "electrical > headphones, cameras & accessories > cameras > digital cameras",
+            "count": 1
+          },
+          {
+            "key": "electrical > headphones, cameras & accessories > cameras > kids cameras",
+            "text": "electrical > headphones, cameras & accessories > cameras > kids cameras",
+            "count": 1
+          },
+          {
+            "key": "gift > by recipient > her > audio, vision & technology",
+            "text": "gift > by recipient > her > audio, vision & technology",
+            "count": 1
+          },
+          {
+            "key": "gift > by recipient > him > aftershave",
+            "text": "gift > by recipient > him > aftershave",
+            "count": 1
+          },
+          {
+            "key": "gift > by recipient > him > audio, vision & technology",
+            "text": "gift > by recipient > him > audio, vision & technology",
+            "count": 1
+          },
+          {
+            "key": "gift > by recipient > him > male grooming tools",
+            "text": "gift > by recipient > him > male grooming tools",
+            "count": 1
+          },
+          {
+            "key": "health & pharmacy > lifestyle & wellbeing > dental > teeth whitening",
+            "text": "health & pharmacy > lifestyle & wellbeing > dental > teeth whitening",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "key": "productAttributes.ProductReviewFlag",
+        "text": "productAttributes.ProductReviewFlag",
+        "elements": [
+          {
+            "key": "0",
+            "text": "0",
+            "count": 11
+          },
+          {
+            "key": "1",
+            "text": "1",
+            "count": 844
+          }
+        ]
+      }
+    ]
+  }
+}

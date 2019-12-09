@@ -1,0 +1,79 @@
+{
+  "products": {
+    "urls": {
+      "redirect": "https://www.boots.com/dior"
+    },
+    "query": "dior",
+    "paging": {
+      "total": 301,
+      "index": 0,
+      "size": 4
+    },
+    "hits": [
+      {
+        "referenceUri": "/dior-forever-foundation-24h-wear-high-perfection-skin-caring-foundation-10261296",
+        "title": "DIOR Forever Matte Foundation ",
+        "pricing": {
+          "regular": {
+            "text": "£37.00"
+          }
+        },
+        "reviews": {
+          "average": 4.36
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-90ml-10254747",
+        "title": "JOY by Dior Eau de Parfum 90ml",
+        "pricing": {
+          "perUnit": "£124.44 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-50ml-10254746",
+        "title": "JOY by Dior Eau de Parfum 50ml",
+        "pricing": {
+          "perUnit": "£156.00 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      },
+      {
+        "referenceUri": "/joy-by-dior-eau-de-parfum-30ml-10254745",
+        "title": "JOY by Dior Eau de Parfum 30ml",
+        "pricing": {
+          "perUnit": "£183.33 per 100ML"
+        },
+        "reviews": {
+          "average": 4.05
+        }
+      }
+    ],
+    "suggestions": [
+      {
+        "text": "dior",
+        "html": "<em>dior</em>"
+      },
+      {
+        "text": "diono",
+        "html": "<em>dion</em>o"
+      },
+      {
+        "text": "diarrhoea",
+        "html": "<em>diar</em>rhoea"
+      },
+      {
+        "text": "giorgio armani",
+        "html": "<em>gior</em>gio armani"
+      },
+      {
+        "text": "biore",
+        "html": "<em>bior</em>e"
+      }
+    ]
+  }
+}
